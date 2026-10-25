@@ -1,0 +1,315 @@
+Company: TOMPKINS FINANCIAL CORP (CIK 1005817)
+Accession: 0001005817-26-000139
+Results released: 2026-10-23
+Press release: https://www.sec.gov/Archives/edgar/data/1005817/000100581726000139/q32026pressrelease.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1005817/000100581726000139/0001005817-26-000139-index.htm
+Saved: 2026-10-25T21:53:43+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 q32026pressrelease.htm EX-99.1
+For more information contact:
+Stephen S. Romaine, President & CEO
+Matthew Tomazin, Executive VP & CFO
+Tompkins Financial Corporation (888) 503-5753
+For Immediate Release
+Friday, October 23, 2026
+Tompkins Financial Corporation Reports Financial Results for Third Quarter of 2026
+ITHACA, NY - Tompkins Financial Corporation (NYSE American: TMP)
+Tompkins Financial Corporation ("Tompkins" or the "Company") reported diluted earnings per share of $2.00 for the third quarter of 2026, up $0.35 or 21.2%, from the third quarter of 2025 and down $0.04 per share or 2.0%, from the second quarter of 2026. Net income for the third quarter of 2026 was $28.7 million, an increase of $5.0 million, or 21.0%, from the third quarter of 2025 and down $650,000, or 2.2%, from the prior quarter.
+For the nine months ended September 30, 2026, diluted earnings per share were $5.86, up $1.34 or 29.6%, from $4.52 for the same period in 2025. Net income for the year-to-date period totaled $84.0 million, up $19.2 million, or 29.6%, from $64.8 million for the nine months ended September 30, 2025.
+Tompkins President and CEO, Stephen Romaine, commented, "We are pleased to report strong financial results for the third quarter. Our consistent levels of loan and deposit growth along with further expansion in net interest margin continue to provide momentum as we look forward. Given our strength in earnings and capital position we have approved another dividend increase, payable in the fourth quarter of 2026. This dividend represents a 13.8% increase compared to the dividend paid in the fourth quarter of 2025."
+SELECTED HIGHLIGHTS FOR THE PERIOD:
+•Net interest margin was 3.65% in the third quarter of 2026, up 7 basis points compared to the prior quarter, and up 45 basis points from the third quarter of 2025.
+•Period end total loans at September 30, 2026 were up $127.8 million, or 1.9% compared to June 30, 2026 (7.8% on an annualized basis), and up $436.9 million, or 6.9%, from September 30, 2025.
+•Period end total deposits at September 30, 2026 were $7.4 billion, up $379.9 million, or 5.4% compared to the most recent prior quarter end, and up $356.0 million, or 5.0%, from September 30, 2025.
+1
+•Total average cost of funds of 1.67% for the third quarter of 2026 was down 1 basis point from the second quarter of 2026, and down 16 basis points compared to the third quarter of 2025.
+•Regulatory Tier 1 capital to average assets was 10.73% at September 30, 2026, up from 10.69% at June 30, 2026, and 9.41% at September 30, 2025.
+NET INTEREST INCOME
+Net interest income was $77.3 million for the third quarter of 2026, up $3.3 million or 4.5% compared to the second quarter of 2026, and up $13.4 million or 21.0% compared to the third quarter of 2025. For the nine months ended September 30, 2026, net interest income was $223.1 million, up $42.5 million or 23.5% when compared to the same period in 2025. The increase in net interest income compared to both prior year periods was due to improvement in net interest margin and growth in average loans.
+Net interest margin was 3.65% for the third quarter of 2026, an increase of 7 basis points over the prior quarter, and an increase of 45 basis points compared to 3.20% for the third quarter of 2025. The increase in net interest margin, when compared to the most recent prior quarter, was primarily driven by higher yields on average interest-earning assets and growth in average loan balances. The year-over-year increase was primarily attributable to growth in average loan balances, improved yields on average interest-earning assets, and lower funding costs. The average yield on securities for the third quarter of 2026 increased 95 basis points over the third quarter of 2025, while the average yield on interest-earning assets increased 28 basis points over the same period.
+Average loans for the quarter ended September 30, 2026 increased $119.1 million, or 1.8% (7.3% annualized), from the prior quarter and $428.0 million, or 6.9%, over the third quarter of 2025. The increase in average loans across both prior periods was primarily driven by growth in the commercial real estate and commercial and industrial portfolios. The average yield on total loans and leases was 5.60% for the third quarter of 2026, up 5 basis points from the prior quarter and up 8 basis points from the third quarter of 2025.
+Average total deposits of $7.2 billion for the third quarter of 2026 increased $180.8 million, or 2.6%, over the second quarter of 2026 and $361.4 million, or 5.3%, over the third quarter of 2025. The cost of interest-bearing deposits of 2.10% for the third quarter of 2026 was up 3 basis points from the prior quarter and down 16 basis points compared to the third quarter of 2025. Average noninterest-bearing deposits totaled $2.0 billion, increasing $90.5 million, or 4.8%, over the second quarter of 2026, and $89.2 million or 4.7%, over the third quarter of 2025. The ratio of average noninterest-bearing deposits to average total deposits was 27.5% for the third quarter of 2026, up from 26.9% for the second quarter of 2026, and consistent with 27.7% for the third quarter of 2025. The average cost of interest-bearing liabilities was 2.24% for the third quarter of 2026, unchanged from the prior quarter, and down 21 basis points compared to the third quarter of 2025.
+NONINTEREST INCOME
+Noninterest income totaled $12.6 million for the third quarter of 2026, down $11.0 million, or 46.7%, from the third quarter of 2025. The decrease was primarily attributable to an $11.3 million decline in insurance revenue
+2
+resulting from the sale of our insurance subsidiary, Tompkins Insurance Agencies, Inc. ("TIA"), in the fourth quarter of 2025. Partially offsetting this decline were increases in fee-based service income, including increases in wealth management fees of $337,000 or 6.8%, service charges on deposit accounts of $164,000 or 8.9%, and card service income of $74,000 or 2.6%.
+Year-to-date noninterest income of $37.5 million was down $33.6 million, or 47.2%, from the same period in 2025. Contributing to the year-over-year decrease was a $32.5 million decline in insurance revenue due to the sale of TIA, as well as a $2.2 million, or 23.2%, decrease in other income, primarily reflecting a gain on the sale of other real estate owned recognized in the second quarter of 2025. Partially offsetting these declines were increases in fee-based service income, including increases in wealth management fees of $749,000 or 5.0%, service charges on deposit accounts of $180,000 or 3.3%, and card service income of $236,000 or 2.7%.
+NONINTEREST EXPENSE
+Noninterest expense totaled $49.1 million for the third quarter of 2026, down $4.8 million, or 8.8%, from the third quarter of 2025. For the nine months ended September 30, 2026, noninterest expense totaled $143.9 million, down $12.2 million, or 7.8%, from the same period in 2025.
+The decrease in noninterest expense for both periods was primarily attributable to the sale of TIA in the fourth quarter of 2025. The third quarter and year-to-date periods in 2025 included TIA-related salaries and wages and other employee benefits expenses of $6.1 million and $18.2 million, respectively, as well as other noninterest expenses of $1.4 million and $4.3 million, respectively. As a result, salaries and wages and other employee benefits decreased $3.8 million, or 11.3%, and $11.8 million, or 11.9%, respectively, for the three and nine months ended September 30, 2026, respectively, compared to the same periods in the prior year. These decreases were partially offset by annual merit increases and higher other employee benefit costs, including health insurance, as well as increases in technology expense.
+INCOME TAX EXPENSE
+Provision for income tax expense was $9.1 million, for an effective rate of 24.1%, for the third quarter of 2026, compared to $9.2 million, for an effective rate of 24.0%, for the most recent prior quarter, and $7.4 million, for an effective rate of 23.9% for the third quarter of 2025.
+For the nine months ended September 30, 2026, provision for income tax expense was $26.7 million, for an effective tax rate of 24.1%, compared to $20.3 million for an effective tax rate of 23.9%, for the same period in 2025.
+3
+ASSET QUALITY
+The allowance for credit losses was 0.90% of total loans and leases at September 30, 2026, up from 0.89% at June 30, 2026, and down from 0.95% at September 30, 2025. The decrease in the allowance for credit losses coverage ratio compared to September 30, 2025 was mainly due to improved economic forecasts for unemployment and gross domestic product and lower qualitative reserves related to asset quality. These were partially offset by additional specific reserves on individually analyzed nonaccrual commercial credits. The ratio of the allowance to total nonperforming loans and leases was 113.12% at September 30, 2026, compared to 111.29% at June 30, 2026, and 113.06% at September 30, 2025.
+Provision for credit losses for the third quarter of 2026 was $3.0 million, up from $1.5 million for the most recent prior quarter, and up from $2.5 million for the third quarter of 2025. The increase in the provision expense compared to the most recent prior quarter was mainly driven by loan growth and specific reserves for individually evaluated loans, partially offset by updated economic forecasts. Net charge-offs for the three months ended September 30, 2026 were $1.2 million, compared to $1.6 million for the second quarter of 2026, and $1.1 million for the third quarter of 2025.
+Nonperforming assets of $53.8 million represented 0.60% of total assets at September 30, 2026, compared to $52.9 million or 0.60% of total assets at June 30, 2026, and $53.0 million or 0.63% of total assets at September 30, 2025. Loans past due 30-89 days totaled $6.7 million at September 30, 2026, $4.7 million at June 30, 2026, and $7.8 million at September 30, 2025.
+Special Mention and Substandard loans and leases totaled $151.1 million at September 30, 2026, compared to $140.0 million reported at June 30, 2026, and $144.2 million at September 30, 2025. Special Mention loans increased $6.8 million and Substandard loans increased by $4.3 million from the prior quarter end. These increases were primarily attributable to two commercial real estate relationships, including the downgrade of a $12.7 million credit to Special Mention and the migration of an existing $4.6 million Special Mention credit to Substandard. Management believes that the collateral securing these credits remains sufficient to mitigate potential loss exposure.
+CAPITAL POSITION
+Capital ratios at September 30, 2026 remained well above the regulatory minimums for well-capitalized institutions. The ratio of total capital to risk-weighted assets was 14.89% at September 30, 2026, unchanged compared to June 30, 2026, and increased compared to 13.27% at September 30, 2025. The ratio of Tier 1 capital to average assets was 10.73% at September 30, 2026, compared to 10.69% at June 30, 2026, and 9.41% at September 30, 2025.
+The Company repurchased 18,118 shares of common stock at an aggregate cost of $1.8 million during the third quarter of 2026 and repurchased a total of 53,636 shares of common stock at an aggregate cost of $4.5 million
+4
+during the year-to-date period ending September 30, 2026. All of these shares were purchased under the Company's 2025 Stock Repurchase Plan.
+LIQUIDITY POSITION
+The Company's liquidity position at September 30, 2026 was consistent with its position at June 30, 2026. The Company's sources of liquidity include ready access to national and regional wholesale funding sources including Federal funds purchased, repurchase agreements, brokered deposits, Federal Reserve Bank's Discount Window advances and Federal Home Loan Bank (FHLB) advances. The Company maintained ready access to liquidity of $1.5 billion, or 17.1% of total assets, at September 30, 2026.
+ABOUT TOMPKINS FINANCIAL CORPORATION
+Tompkins Financial Corporation is a banking and financial services company serving the Central, Western, and Hudson Valley regions of New York and the Southeastern region of Pennsylvania. Headquartered in Ithaca, NY, Tompkins Financial is parent to Tompkins Bank & Trust, which offers a full array of products and services, including commercial and consumer banking. Tompkins Bank & Trust provides wealth management services under the Tompkins Financial Advisors brand, including investment management, trust and estate, financial and tax planning services. For more information on Tompkins Financial, visit www.tompkinsfinancial.com.
+"Safe Harbor" Statement under the Private Securities Litigation Reform Act of 1995:
+This press release contains "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. The statements contained in this press release that are not statements of historical fact may include forward-looking statements that involve a number of risks and uncertainties. Forward-looking statements may be identified by use of such words as "may", "could", "should", "will", "would", "estimate", "intend", "continue", "believe", "expect", "plan", "commit", or "anticipate", as well as the negative and other variations of these terms and other similar words. Examples of forward-looking statements may include statements regarding the sufficiency of existing collateral to cover exposure related to special mention and substandard loans. Forward-looking statements are made based on management’s expectations and beliefs concerning future events impacting the Company and are subject to uncertainties and factors relating to the Company’s operations and economic environment, all of which are difficult to predict and many of which are beyond the control of the Company, that could cause actual results of the Company to differ materially from those expressed and/or implied by forward-looking statements and historical performance. The following factors, in addition to those listed as Risk Factors in Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2025 as filed with the Securities and Exchange Commission, are among those that could cause actual results to differ materially from the forward-looking statements and historical performance: changes in general economic, market and regulatory conditions; our ability to attract and retain deposits and other sources of liquidity; gross domestic product growth and inflation trends; the impact of the interest rate and inflationary environment on the Company's business, financial condition and results of operations; other income or cash flow anticipated from the Company's operations, investment and/or lending activities; changes in laws
+5
+and regulations affecting public companies, banks, bank holding companies and/or financial holding companies, including the Dodd-Frank Act, and other federal, state and local government mandates; the impact of any change in the FDIC insurance assessment rate or the rules and regulations related to the calculation of the FDIC insurance assessment amount; changes in supervisory and regulatory scrutiny of financial institutions; technological developments and changes; cybersecurity incidents and threats; the ability to continue to introduce competitive new products and services on a timely, cost-effective basis; governmental and public policy changes, including environmental regulation; reliance on large customers; the geographic concentration of our business; the ability to access financial resources in the amounts, at the times, and on the terms required to support the Company's future businesses; and the economic impact, including market volatility, of national and global events, including the response to bank failures, war and geopolitical matters (including continuing or increasing hostilities in the Middle East and the war in Ukraine), tariffs and trade wars, widespread protests, civil unrest, political uncertainty, and pandemics or other public health crises; and the related financial stress on borrowers and changes to customer behavior and credit risk as a result of any of the foregoing. The Company does not undertake any obligation to update its forward-looking statements.
+6
+TOMPKINS FINANCIAL CORPORATION
+CONSOLIDATED STATEMENTS OF CONDITION
+(In thousands, except share and per share data)(unaudited) | As of | As of
+ASSETS | 9/30/2026 | 12/31/2025
+(Audited)
+Cash and noninterest bearing balances due from banks | $ | 81,779 | $ | 50,717
+Interest bearing balances due from banks | 160,372 | 82,100
+Cash and Cash Equivalents | 242,151 | 132,817
+Available-for-sale debt securities, at fair value (amortized cost of $1,419,705 at September 30, 2026 and $1,391,379 at December 31, 2025) | 1,337,945 | 1,382,068
+Held-to-maturity debt securities, at amortized cost (fair value of $274,121 at September 30, 2026 and $283,860 at December 31, 2025) | 312,581 | 312,528
+Equity securities, at fair value | 749 | 800
+Loans held for sale | 0 | 43,440
+Total loans and leases, net of unearned income and deferred costs and fees | 6,724,973 | 6,446,245
+Less: Allowance for credit losses | 60,455 | 57,671
+Net Loans and Leases | 6,664,518 | 6,388,574
+Federal Home Loan Bank and other stock | 26,508 | 32,307
+Bank premises and equipment, net | 70,213 | 72,418
+Corporate owned life insurance | 79,559 | 77,843
+Goodwill | 72,736 | 72,736
+Accrued interest and other assets | 171,557 | 152,737
+Total Assets | $ | 8,978,517 | $ | 8,668,268
+LIABILITIES
+Deposits:
+Interest bearing:
+Checking, savings and money market | 4,182,542 | 3,742,402
+Time | 1,252,938 | 1,298,393
+Noninterest bearing | 1,973,556 | 1,896,967
+Total Deposits | 7,409,036 | 6,937,762
+Federal funds purchased and securities sold under agreements to repurchase | 133,854 | 95,569
+Other borrowings | 406,712 | 564,446
+Other liabilities | 92,535 | 132,114
+Total Liabilities | $ | 8,042,137 | $ | 7,729,891
+EQUITY
+Shareholders' equity:
+Common Stock - par value $0.10 per share: Authorized 25,000,000 shares; Issued: 14,391,116 at September 30, 2026; and 14,449,845 at December 31, 2025 | 1,440 | 1,446
+Additional paid-in capital | 295,991 | 299,206
+Retained earnings | 716,829 | 662,161
+Accumulated other comprehensive loss | (73,187) | (19,054)
+Treasury stock, at cost – 91,740 shares at September 30, 2026, and 104,492 shares at December 31, 2025 | (4,693) | (5,382)
+Total Equity | $ | 936,380 | $ | 938,377
+Total Liabilities and Equity | $ | 8,978,517 | $ | 8,668,268
+7
+TOMPKINS FINANCIAL CORPORATION
+CONSOLIDATED STATEMENTS OF INCOME
+(In thousands, except per share data) (Unaudited) | Three Months Ended | Nine Months Ended
+9/30/2026 | 06/30/2026 | 9/30/2025 | 9/30/2026 | 9/30/2025
+INTEREST AND DIVIDEND INCOME
+Loans | $ | 93,706 | $ | 90,087 | $ | 86,309 | $ | 270,916 | $ | 247,232
+Due from banks | 142 | 193 | 187 | 501 | 549
+Available-for-sale debt securities | 14,201 | 13,896 | 9,738 | 41,799 | 27,778
+Held-to-maturity debt securities | 1,225 | 1,222 | 1,224 | 3,665 | 3,661
+Federal Home Loan Bank and other stock | 535 | 543 | 598 | 1,538 | 1,944
+Total Interest and Dividend Income | 109,809 | $ | 105,941 | $ | 98,056 | $ | 318,419 | $ | 281,164
+INTEREST EXPENSE
+Time certificates of deposits of $250,000 or more | 4,006 | 4,192 | 4,063 | 12,676 | 12,710
+Other deposits | 23,690 | 22,338 | 24,210 | 67,559 | 69,692
+Federal funds purchased and securities sold under agreements to repurchase | 43 | 59 | 23 | 120 | 125
+Other borrowings | 4,769 | 5,369 | 5,882 | 14,919 | 17,967
+Total Interest Expense | 32,508 | 31,958 | 34,178 | 95,274 | 100,494
+Net Interest Income | 77,301 | 73,983 | 63,878 | 223,145 | 180,670
+Less: Provision for credit loss expense | 3,012 | 1,502 | 2,490 | 6,016 | 10,557
+Net Interest Income After Provision for Credit Loss Expense | 74,289 | 72,481 | 61,388 | 217,129 | 170,113
+NONINTEREST INCOME
+Insurance commissions and fees | 0 | 0 | 11,282 | 0 | 32,490
+Wealth management fees | 5,316 | 5,229 | 4,979 | 15,811 | 15,062
+Service charges on deposit accounts | 2,008 | 1,816 | 1,844 | 5,619 | 5,439
+Card services income | 2,965 | 3,296 | 2,891 | 8,903 | 8,667
+Other income | 2,305 | 2,797 | 2,557 | 7,238 | 9,424
+Net (loss) gain on securities transactions | (42) | (4) | 11 | (51) | 26
+Total Noninterest Income | 12,552 | 13,134 | 23,564 | 37,520 | 71,108
+NONINTEREST EXPENSE
+Salaries and wages | 23,731 | 22,955 | 27,581 | 68,634 | 78,926
+Other employee benefits | 6,121 | 5,875 | 6,073 | 18,803 | 20,335
+Net occupancy expense of premises | 2,943 | 3,296 | 3,173 | 9,694 | 9,851
+Furniture and fixture expense | 2,006 | 2,025 | 1,825 | 6,058 | 5,681
+Other operating expense | 14,285 | 12,915 | 15,195 | 40,689 | 41,284
+Total Noninterest Expenses | 49,086 | 47,066 | 53,847 | 143,878 | 156,077
+Income Before Income Tax Expense | 37,755 | 38,549 | 31,105 | 110,771 | 85,144
+Income Tax Expense | 9,101 | 9,245 | 7,432 | 26,739 | 20,321
+Net Income | $ | 28,654 | 29,304 | 23,673 | 84,032 | 64,823
+Basic Earnings Per Share | $ | 2.01 | $ | 2.06 | $ | 1.66 | $ | 5.90 | $ | 4.55
+Diluted Earnings Per Share | $ | 2.00 | $ | 2.04 | $ | 1.65 | $ | 5.86 | $ | 4.52
+8
+Average Consolidated Statements of Condition and Net Interest Analysis (Unaudited)
+Quarter Ended | Quarter Ended | Quarter Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025
+(dollar amounts in thousands) | Average Balance (QTD) | Interest | Average Yield/Rate | Average Balance (QTD) | Interest | Average Yield/Rate | Average Balance (QTD) | Interest | Average Yield/Rate
+ASSETS
+Interest-earning assets
+Interest-bearing balances due from banks | $ | 16,483 | $ | 142 | 3.42 | % | $ | 17,416 | $ | 192 | 4.42 | % | $ | 18,474 | $ | 187 | 4.02 | %
+Securities1
+U.S. Government securities | 1,662,045 | 14,936 | 3.56 | % | 1,650,865 | 14,640 | 3.56 | % | 1,616,048 | 10,466 | 2.57 | %
+State and municipal2 | 80,410 | 541 | 2.67 | % | 79,748 | 526 | 2.65 | % | 82,462 | 541 | 2.60 | %
+Other Securities2 | 3,281 | 51 | 6.17 | % | 3,293 | 50 | 6.09 | % | 3,283 | 54 | 6.52 | %
+Total securities | 1,745,736 | 15,528 | 3.53 | % | 1,733,906 | 15,216 | 3.52 | % | 1,701,793 | 11,061 | 2.58 | %
+FHLBNY and FRB stock | 29,516 | 535 | 7.19 | % | 32,128 | 543 | 6.78 | % | 31,023 | 598 | 7.65 | %
+Total loans and leases, net of unearned income2,3 | 6,644,377 | 93,882 | 5.60 | % | 6,525,286 | 90,243 | 5.55 | % | 6,216,384 | 86,522 | 5.52 | %
+Total interest-earning assets | 8,436,112 | 110,087 | 5.18 | % | 8,308,736 | 106,194 | 5.13 | % | 7,967,674 | 98,368 | 4.90 | %
+Other assets | 341,862 | 352,338 | 329,774
+Total assets | $ | 8,777,974 | $ | 8,661,074 | $ | 8,297,448
+LIABILITIES & EQUITY
+Deposits
+Interest-bearing deposits
+Interest bearing checking, savings, & money market | $ | 3,947,302 | $ | 17,602 | 1.77 | % | $ | 3,855,494 | $ | 16,359 | 1.70 | % | $ | 3,724,882 | $ | 17,306 | 1.84 | %
+Time deposits | 1,278,614 | 10,094 | 3.13 | % | 1,280,086 | 10,171 | 3.19 | % | 1,228,830 | 10,967 | 3.54 | %
+Total interest-bearing deposits | 5,225,916 | 27,696 | 2.10 | % | 5,135,580 | 26,530 | 2.07 | % | 4,953,712 | 28,273 | 2.26 | %
+Federal funds purchased & securities sold under agreements to repurchase | 35,217 | 43 | 0.48 | % | 40,636 | 59 | 0.58 | % | 41,524 | 23 | 0.22 | %
+Other borrowings | 484,057 | 4,769 | 3.91 | % | 550,041 | 5,369 | 3.92 | % | 535,327 | 5,882 | 4.36 | %
+Total interest-bearing liabilities | 5,745,190 | 32,508 | 2.24 | % | 5,726,257 | 31,958 | 2.24 | % | 5,530,563 | 34,178 | 2.45 | %
+Noninterest bearing deposits | 1,982,062 | 1,891,560 | 1,892,896
+Accrued expenses and other liabilities | 91,062 | 89,540 | 102,462
+Total liabilities | 7,818,314 | 7,707,357 | 7,525,921
+Total equity | 959,660 | 953,717 | 771,527
+Total liabilities and equity | $ | 8,777,974 | $ | 8,661,074 | $ | 8,297,448
+Interest rate spread | 2.93 | % | 2.89 | % | 2.45 | %
+Tax-equivalent net interest income/margin on earning assets | 77,579 | 3.65 | % | 74,236 | 3.58 | % | 64,190 | 3.20 | %
+Tax-equivalent adjustment | (278) | (253) | (312)
+Net interest income | $ | 77,301 | $ | 73,983 | $ | 63,878
+9
+Average Consolidated Statements of Condition and Net Interest Analysis (Unaudited)
+Year to Date Period Ended | Year to Date Period Ended
+September 30, 2026 | September 30, 2025
+(dollar amounts in thousands) | Average Balance (YTD) | Interest | Average Yield/Rate | Average Balance (YTD) | Interest | Average Yield/Rate
+ASSETS
+Interest-earning assets
+Interest-bearing balances due from banks | $ | 15,776 | $ | 501 | 4.25 | % | $ | 16,914 | $ | 549 | 4.34 | %
+Securities1
+U.S. Government securities | 1,649,986 | 44,011 | 3.57 | % | 1,608,371 | 29,933 | 2.49 | %
+State and municipal2 | 80,456 | 1,603 | 2.66 | % | 84,466 | 1,649 | 2.61 | %
+Other securities | 3,293 | 150 | 6.09 | % | 3,279 | 160 | 6.52 | %
+Total securities | 1,733,735 | 45,764 | 3.53 | % | 1,696,116 | 31,742 | 2.50 | %
+FHLBNY and FRB stock | 30,222 | 1,538 | 6.80 | % | 31,552 | 1,944 | 8.24 | %
+Total loans and leases, net of unearned income2,3 | 6,535,605 | 271,463 | 5.55 | % | 6,124,468 | 247,859 | 5.41 | %
+Total interest-earning assets | 8,315,338 | 319,266 | 5.13 | % | 7,869,050 | 282,094 | 4.79 | %
+Other assets | 358,839 | 306,039
+Total assets | $ | 8,674,177 | $ | 8,175,089
+LIABILITIES & EQUITY
+Deposits
+Interest-bearing deposits
+Interest bearing checking, savings, & money market | $ | 3,875,988 | $ | 49,548 | 1.71 | % | $ | 3,696,142 | $ | 49,903 | 1.81 | %
+Time deposits | 1,281,441 | 30,687 | 3.20 | % | 1,206,273 | 32,499 | 3.60 | %
+Total interest-bearing deposits | 5,157,429 | 80,235 | 2.08 | % | 4,902,415 | 82,402 | 2.25 | %
+Federal funds purchased & securities sold under agreements to repurchase | 39,519 | 120 | 0.41 | % | 43,744 | 125 | 0.38 | %
+Other borrowings | 508,443 | 14,919 | 3.92 | % | 549,192 | 17,967 | 4.37 | %
+Total interest-bearing liabilities | 5,705,391 | 95,274 | 2.23 | % | 5,495,351 | 100,494 | 2.45 | %
+Noninterest bearing deposits | 1,910,151 | 1,830,755
+Accrued expenses and other liabilities | 103,681 | 98,953
+Total liabilities | 7,719,223 | 7,425,059
+Total equity | 954,954 | 750,030
+Total liabilities and equity | $ | 8,674,177 | $ | 8,175,089
+Interest rate spread | 2.90 | % | 2.35 | %
+Net interest income (TE)/margin on earning assets | 223,992 | 3.60 | % | 181,600 | 3.09 | %
+Tax Equivalent Adjustment | (847) | (930)
+Net interest income | $ | 223,145 | $ | 180,670
+10
+Tompkins Financial Corporation - Summary Financial Data (Unaudited)
+(In thousands, except per share data)
+Quarter-Ended | Year-Ended
+Period End Balance Sheet | Sep-26 | Jun-26 | Mar-26 | Dec-25 | Sep-25 | Dec-25
+Securities | $ | 1,651,275 | $ | 1,706,414 | $ | 1,702,250 | $ | 1,695,396 | $ | 1,604,357 | $ | 1,695,396
+Total Loans | 6,724,973 | 6,597,178 | 6,477,943 | 6,446,245 | 6,288,071 | 6,446,245
+Allowance for credit losses | 60,455 | 58,479 | 58,108 | 57,671 | 59,889 | 57,671
+Total assets | 8,978,517 | 8,801,522 | 8,695,761 | 8,668,268 | 8,468,731 | 8,668,268
+Total deposits | 7,409,036 | 7,029,111 | 7,054,172 | 6,937,762 | 7,053,070 | 6,937,762
+Brokered deposits | 140,109 | 169,014 | 109,712 | 114,391 | 145,223 | 114,391
+Federal funds purchased and securities sold under agreements to repurchase | 133,854 | 181,710 | 118,133 | 95,569 | 80,804 | 95,569
+Other borrowings | 406,712 | 546,358 | 449,446 | 564,446 | 444,866 | 564,446
+Total equity | 936,380 | 959,932 | 946,741 | 938,377 | 788,805 | 938,377
+Average Balance Sheet
+Average earning assets | $ | 8,436,112 | $ | 8,308,736 | $ | 8,198,556 | $ | 8,058,427 | $ | 7,967,674 | $ | 7,916,783
+Average assets | 8,777,974 | 8,661,074 | 8,581,323 | 8,372,287 | 8,297,448 | 8,224,794
+Average interest-bearing liabilities | 5,745,190 | 5,726,257 | 5,643,611 | 5,484,440 | 5,530,563 | 5,492,601
+Average equity | 959,660 | 953,717 | 951,393 | 875,658 | 771,527 | 781,695
+Share data
+Weighted average shares outstanding (basic) | 14,223,648 | 14,224,972 | 14,250,969 | 14,270,206 | 14,248,533 | 14,252,810
+Weighted average shares outstanding (diluted) | 14,345,850 | 14,333,390 | 14,347,514 | 14,356,680 | 14,345,219 | 14,335,358
+Period-end shares outstanding | 14,363,661 | 14,382,196 | 14,392,337 | 14,420,495 | 14,431,300 | 14,420,495
+Common equity book value per share | $ | 65.19 | $ | 66.74 | $ | 65.78 | $ | 65.07 | $ | 54.66 | $ | 65.07
+Tangible book value per share (Non-GAAP)** | $ | 60.12 | $ | 61.68 | $ | 60.73 | $ | 60.03 | $ | 48.19 | $ | 60.03
+**See "Non-GAAP measures" below for a discussion of non-GAAP financial measures and a reconciliation of non-GAAP financial measures to the most directly comparable financial measures presented in accordance with GAAP.
+Income Statement
+Net interest income | $ | 77,301 | $ | 73,983 | $ | 71,861 | $ | 69,061 | $ | 63,878 | $ | 249,731
+Provision for credit loss expense | 3,012 | 1,502 | 1,502 | 977 | 2,490 | 11,534
+Noninterest income | 12,552 | 13,134 | 11,834 | 125,763 | 23,564 | 196,871
+Noninterest expense | 49,086 | 47,066 | 47,726 | 54,135 | 53,847 | 210,212
+Income tax expense | 9,101 | 9,245 | 8,393 | 43,464 | 7,432 | 63,785
+Net income attributable to Tompkins Financial Corporation | 28,654 | 29,304 | 26,074 | 96,248 | 23,673 | 161,071
+Basic earnings per share4 | 2.01 | 2.06 | 1.83 | 6.74 | 1.66 | 11.30
+Diluted earnings per share4 | 2.00 | 2.04 | 1.82 | 6.70 | 1.65 | 11.24
+Nonperforming Assets
+Nonaccrual loans and leases | $ | 53,128 | $ | 52,426 | $ | 51,271 | $ | 47,794 | $ | 52,805 | $ | 47,794
+Loans and leases 90 days past due and accruing | 313 | 122 | 124 | 146 | 166 | 146
+Total nonperforming loans and leases | 53,441 | 52,548 | 51,395 | 47,940 | 52,971 | 47,940
+OREO | 384 | 384 | 269 | 229 | 0 | 229
+Total nonperforming assets | $ | 53,825 | $ | 52,932 | $ | 51,664 | $ | 48,169 | $ | 52,971 | $ | 48,169
+11
+Tompkins Financial Corporation - Summary Financial Data (Unaudited) - continued
+Quarter-Ended | Year-Ended
+Delinquency - Total loan and lease portfolio | Sep-26 | Jun-26 | Mar-26 | Dec-25 | Sep-25 | Dec-25
+Loans and leases 30-89 days past due and
+accruing | $ | 6,702 | $ | 4,666 | $ | 5,874 | $ | 8,806 | $ | 7,841 | $ | 8,806
+Loans and leases 90 days past due and accruing | 313 | 122 | 124 | 146 | 166 | 146
+Total loans and leases past due and accruing | 7,015 | 4,788 | 5,998 | 8,952 | 8,007 | 8,952
+Allowance for Credit Losses
+Balance at beginning of period | $ | 58,479 | $ | 58,108 | $ | 57,671 | $ | 59,889 | $ | 58,555 | $ | 56,496
+Provision for credit losses | 3,173 | 1,962 | 1,212 | 1,064 | 2,454 | $ | 11,564
+Net loan and lease charge-offs (recoveries) | 1,197 | 1,591 | 775 | 3,282 | 1,120 | $ | 10,389
+Allowance for credit losses at end of period | $ | 60,455 | $ | 58,479 | $ | 58,108 | $ | 57,671 | $ | 59,889 | $ | 57,671
+Allowance for Credit Losses - Off-Balance Sheet Exposure
+Balance at beginning of period | $ | 1,263 | $ | 1,723 | $ | 1,433 | $ | 1,520 | $ | 1,484 | $ | 1,463
+Provision (credit) for credit losses | (161) | (460) | 290 | (87) | 36 | $ | (30)
+Allowance for credit losses at end of period | $ | 1,102 | $ | 1,263 | $ | 1,723 | $ | 1,433 | $ | 1,520 | $ | 1,433
+Loan Classification - Total Portfolio
+Special Mention | $ | 90,401 | $ | 83,631 | $ | 66,104 | $ | 100,717 | $ | 88,398 | $ | 100,717
+Substandard | 60,689 | 56,380 | 54,331 | 33,764 | 55,762 | 33,764
+Ratio Analysis
+Credit Quality
+Nonperforming loans and leases/total loans and leases | 0.79 | % | 0.80 | % | 0.79 | % | 0.74 | % | 0.84 | % | 0.74 | %
+Nonperforming assets/total assets | 0.60 | % | 0.60 | % | 0.59 | % | 0.56 | % | 0.63 | % | 0.56 | %
+Allowance for credit losses/total loans and leases | 0.90 | % | 0.89 | % | 0.90 | % | 0.89 | % | 0.95 | % | 0.89 | %
+Allowance/nonperforming loans and leases | 113.12 | % | 111.29 | % | 113.06 | % | 120.30 | % | 113.06 | % | 120.30 | %
+Net loan and lease losses (recoveries) annualized/total average loans and leases | 0.07 | % | 0.10 | % | 0.05 | % | 0.21 | % | 0.07 | % | 0.17 | %
+Capital Adequacy
+Tier 1 Capital (to average assets) | 10.73 | % | 10.69 | % | 10.58 | % | 10.62 | % | 9.41 | % | 10.62 | %
+Total Capital (to risk-weighted assets) | 14.89 | % | 14.89 | % | 14.78 | % | 14.56 | % | 13.27 | % | 14.56 | %
+Profitability (period-end)
+Return on average assets * | 1.30 | % | 1.36 | % | 1.23 | % | 4.56 | % | 1.13 | % | 1.96 | %
+Return on average equity * | 11.85 | % | 12.32 | % | 11.11 | % | 43.61 | % | 12.17 | % | 20.61 | %
+Net interest margin (TE) * | 3.65 | % | 3.58 | % | 3.57 | % | 3.42 | % | 3.20 | % | 3.17 | %
+Average yield on interest-earning assets* | 5.18 | % | 5.13 | % | 5.09 | % | 4.98 | % | 4.90 | % | 4.84 | %
+Average cost of deposits* | 1.52 | % | 1.51 | % | 1.51 | % | 1.58 | % | 1.64 | % | 1.62 | %
+Average cost of funds* | 1.67 | % | 1.68 | % | 1.67 | % | 1.71 | % | 1.83 | % | 1.80 | %
+* Quarterly ratios have been annualized
+12
+Tompkins Financial Corporation - Summary Financial Data (Unaudited) - continued
+Non-GAAP Measures
+This press release contains financial information determined by methods other than in accordance with U.S. generally accepted accounting principles (GAAP). Where non-GAAP disclosures are used in this press release, the comparable GAAP measure, as well as reconciliation to the comparable GAAP measure, is provided in the below table. The Company believes the non-GAAP measures provide meaningful comparisons of our underlying operational performance and facilitate management's and investors' assessments of business and performance trends in comparison to others in the financial services industry. These non-GAAP financial measures should not be considered in isolation or as a measure of the Company's profitability or liquidity; they are in addition to, and are not a substitute for, financial measures under GAAP. The non-GAAP financial measures presented herein may be different from non-GAAP financial measures used by other companies, and may not be comparable to similarly titled measures reported by other companies. Further, the Company may utilize other measures to illustrate performance in the future. Non-GAAP financial measures have limitations since they do not reflect all of the amounts associated with the Company's results of operations as determined in accordance with GAAP.
+Reconciliation of Tangible Book Value Per Share (non-GAAP) to Common Equity Book Value Per Share (GAAP)
+Quarter-Ended | Year-Ended
+Sep-26 | Jun-26 | Mar-26 | Dec-25 | Sep-25 | Dec-25
+Common equity book value per share (GAAP) | $ | 65.19 | $ | 66.74 | $ | 65.78 | $ | 65.07 | $ | 54.66 | $ | 65.07
+Total common equity | $ | 936,380 | $ | 959,932 | $ | 946,741 | $ | 938,377 | $ | 788,805 | $ | 938,377
+Less: Goodwill and intangibles* | 72,766 | 72,766 | 72,766 | 72,766 | 93,405 | 72,766
+Tangible common equity (Non-GAAP) | 863,614 | 887,166 | 873,975 | 865,611 | 695,400 | 865,611
+Ending shares outstanding | 14,363,661 | 14,382,196 | 14,392,337 | 14,420,495 | 14,431,300 | 14,420,495
+Tangible book value per share (Non-GAAP) | $ | 60.12 | $ | 61.68 | $ | 60.73 | $ | 60.03 | $ | 48.19 | $ | 60.03
+*The decline in goodwill for the fourth quarter of 2025 over the prior periods shown in the table reflects the sale of TIA.
+1 Average balances and yields on available-for-sale securities are based on historical amortized cost.
+2 Interest income includes the tax effects of taxable-equivalent adjustments using an effective income tax rate of 21% in 2026 and 2025 to increase tax exempt interest income to taxable-equivalent basis.
+3 Nonaccrual loans are included in the average asset totals presented above. Payments received on nonaccrual loans have been recognized as disclosed in Note 1 of the Company's consolidated financial statements included in Part I of the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+4 Earnings per share for the full fiscal year may not equal the sum of the quarterly earnings per share as a result of rounding of average shares.
+13
