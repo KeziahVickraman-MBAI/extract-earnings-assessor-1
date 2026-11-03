@@ -1,0 +1,506 @@
+Company: Merchants Bancorp (CIK 1629019)
+Accession: 0001104659-26-119617
+Results released: 2026-10-28
+Press release: https://www.sec.gov/Archives/edgar/data/1629019/000110465926119617/mbin-ex99d1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1629019/000110465926119617/0001104659-26-119617-index.htm
+Saved: 2026-11-04T06:07:50+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 mbin-ex99d1.htm EX-99.1
+Exhibit 99.1
+PRESS RELEASE
+Merchants Bancorp Reports Third Quarter of 2026 Results
+For Release October 28, 2026
+● | Net income of $105.2 million in the third quarter of 2026 increased $50.5 million, or 92%, compared to the third quarter of 2025, and increased $26.9 million, or 34%, compared to the second quarter of 2026.
+● | Diluted earnings per common share of $2.06 in the third quarter of 2026 increased 112% compared to the third quarter of 2025 and increased 39% compared to the second quarter of 2026.
+● | Tangible book value per common share increased to $41.64, a record high for the 31st consecutive quarter, rising 15% from $36.31 at September 30, 2025, and 4% from $39.93 at June 30, 2026.
+● | Total assets were $20.9 billion at September 30, 2026, a decrease of 2% from June 30, 2026, and an increase of 7% from December 31, 2025.
+● | Available liquidity remained strong at $13.0 billion, or 62% of total assets, supported by $6.3 billion of unused borrowing capacity with the Federal Home Loan Bank and Federal Reserve Discount Window and a diversified mix of highly liquid assets.
+● | Capital ratios remained strong, with a total risk-based capital ratio of 13.3%, reflecting the Company’s continued emphasis on financial strength and balance sheet resilience.
+● | Results benefited from positive fair value adjustments in noninterest income, including $28.2 million from servicing rights and $19.1 million from a floor derivative, reflecting the natural hedge within the Company's diversified business model. As higher rates pressure mortgage production and gain on sale revenue, they generally support servicing and derivative valuations.
+● | The efficiency ratio of 35.35% in the third quarter of 2026 decreased compared to 45.16% in the third quarter of 2025 and 40.20% in the second quarter of 2026, reflecting the positive valuation adjustments in noninterest income.
+● | Nonperforming loans decreased $25.4 million, or 12%, to $180.3 million from June 30, 2026, while criticized loans increased $15.4 million, or 3%, to $460.1 million. Compared with December 31, 2025, nonperforming loans decreased $17.5 million, or 9%, and criticized loans decreased $48.1 million, or 9%.
+● | The provision for credit losses was $12.0 million, a decrease of $17.2 million from the third quarter of 2025 and an increase of $2.8 million from the second quarter of 2026, primarily reflecting higher specific reserves. Charge-offs were $3.9 million in the third quarter of 2026, compared with $16.5 million in the second quarter of 2026 and $29.5 million in the third quarter of 2025.
+● | Total deposits of $15.0 billion increased $787.5 million, or 6%, from June 30, 2026 and $2.0 billion, or 15%, from December 31, 2025. Core deposits of $14.3 billion increased $1.4 billion, or 11%, from June 30, 2026, and represented 95% of total deposits.
+● | On September 14, 2026, the Company acquired The Loan Exchange for total consideration of $13.9 million, resulting in the recognition of approximately $11.1 million of goodwill. During the initial ramp-up period, the acquired operations are expected to result in elevated operating expenses and may be dilutive to earnings as production increases and integration activities progress. The acquisition is intended to enhance the Company’s single-family mortgage production platform, provide additional opportunities to generate gain on sale revenue and expand its footprint in the jumbo lending market.
+CARMEL, Indiana – (PR Newswire) - Merchants Bancorp (the “Company” or “Merchants”) (Nasdaq: MBIN), parent company of Merchants Bank, today reported third quarter of 2026 net income of $105.2 million, or diluted earnings per common share of $2.06. This compared to $54.7 million, or diluted earnings per common share of $0.97 in the third quarter of 2025, and compared to $78.3 million, or diluted earnings per common share of $1.48 in the second quarter of 2026.
+“Our third-quarter results demonstrate the strength of our diversified business model and disciplined execution across the Company. Earnings increased significantly, tangible book value per common share reached a record high for the 31st consecutive quarter, and we reported lower nonperforming loans and substantially lower charge-offs. While we remain focused on the migration within criticized loan classifications, our strong capital and liquidity position provides the flexibility to support our clients and pursue disciplined growth,” said Michael F. Petrie, Chairman and CEO of Merchants.
+Michael J. Dunlap, President and Chief Operating Officer of Merchants, added, “We delivered strong operating performance during the quarter, with higher servicing rights and derivative valuations that provide an earnings hedge to pressure on gain on sale revenue in the current interest rate environment. Our recently completed acquisition expands our single-family mortgage production capabilities and presence in jumbo lending, creating additional opportunities to generate gain on sale revenue as the platform scales. Although the acquired operations may be dilutive during the initial ramp-up period, we remain focused on effective integration and believe the transaction will support earnings growth over time.”
+Net income for the third quarter of 2026 was $105.2 million, an increase of $50.5 million, or 92%, compared to $54.7 million in the third quarter of 2025. The increase was driven by a $37.8 million, or 88%, increase in noninterest income, and a $33.3 million, or 34%, increase in net interest income after provision for credit losses. These were partially offset by an $18.4 million, or 186%, increase in provision for income taxes, and a $2.3 million, or 3% increase in noninterest expense.
+Net income for the third quarter of 2026 increased $26.9 million, or 34%, from $78.3 million in the second quarter of 2026. The improvement was primarily driven by a $35.1 million, or 77%, increase in noninterest income, which was partially offset by a $6.8 million, or 31%, increase in provision for income taxes, and a $6.3 million, or 9%, increase in noninterest expense.
+Total Assets
+Total assets of $20.9 billion at September 30, 2026 decreased $346.5 million, or 2%, compared to June 30, 2026, and increased $1.4 billion, or 7%, compared to December 31, 2025. The increase compared to December 31, 2025 was primarily due to higher balances in the multi-family portfolio, revolving lines of credit collateralized by mortgage servicing rights that are included in the commercial and commercial real estate portfolio, and the warehouse portfolio.
+Asset Quality
+As of September 30, 2026, the allowance for credit losses on loans was $82.1 million. The allowance increased $6.3 million, or 8%, from June 30, 2026, primarily due to higher specific reserves and adjustments to qualitative factors related to rising interest rates. Compared with December 31, 2025, the allowance decreased $1.2 million, or 1%.
+During the third quarter of 2026, the Company recorded $3.9 million of charge-offs and $0.2 million of recoveries, compared with $16.5 million of charge-offs and $4.8 million of recoveries in the second quarter of 2026 and $29.5 million of charge-offs and $23,000 of recoveries in the third quarter of 2025.
+As of September 30, 2026, nonperforming loans were $180.3 million, or 1.47% of loans receivable, compared with $205.6 million, or 1.67%, as of June 30, 2026, and $197.8 million, or 1.79%, as of December 31, 2025. Nonperforming loans decreased $25.4 million, or 12%, from June 30, 2026, primarily due to loan payoffs and the transfer of one loan to other real estate owned.
+Overall, criticized loans receivable of $460.1 million increased $15.4 million, or 3%, compared to June 30, 2026, and decreased $48.1 million, or 9%, compared to December 31, 2025. As of September 30, 2026, 6% of the criticized loans were covered by credit default swaps.
+Loans classified as special mention, which often serve as an earlier-stage indicator of potential credit deterioration, declined to $181.4 million as of September 30, 2026, from $214.8 million as of June 30, 2026 and $204.9 million as of December 31, 2025. The decreases of $33.4 million, or 16%, from June 30, 2026 and $23.5 million, or 11%, from December 31, 2025 indicate moderation in earlier-stage criticized classifications. Substandard loans increased $48.8 million from June 30, 2026, primarily reflecting migration within criticized classifications, and contributed to the sequential increase in total criticized loans. Management continues to monitor these relationships individually, including borrower performance, collateral values, and expected resolution strategies.
+Page | 2
+As of September 30, 2026, all substandard loans have been individually evaluated for expected credit losses, resulting in specific reserves of $6.6 million. Based on its current evaluations, the Company believes the loan portfolio remains well collateralized.
+Total delinquent loans of $215.6 million increased $7.6 million, or 4%, compared to June 30, 2026, primarily in the single-family portfolio, while delinquency in the multi-family portfolio declined. As of September 30, 2026, 10% of the delinquent loans were covered by credit default swaps.
+The Company has taken additional steps to reduce credit risk through loan sale and securitization activities since 2019. Since 2023, the Company has also entered into credit protection arrangements through credit default swaps and a credit-linked note to reduce potential loss exposure, with coverage ranging from 13% to 15% of the unpaid principal balance for each arrangement. Although these loans are subject to credit protection, the Company is required to maintain an allowance for credit losses on loans held for investment. As of September 30, 2026, the remaining balance of loans protected by credit default swaps was $2.1 billion.
+Total Deposits
+Total deposits of $15.0 billion at September 30, 2026, increased $787.5 million, or 6%, compared to June 30, 2026, and $2.0 billion, or 15%, compared to December 31, 2025. The increase in both periods primarily reflected the growth in core deposits.
+Core deposits of $14.3 billion at September 30, 2026, reflected increases of $1.4 billion, or 11%, from June 30, 2026, and $3.0 billion, or 27%, from December 31, 2025. Core deposits represented 95% of total deposits at September 30, 2026, 91% of total deposits at June 30, 2026, and 87% of total deposits at December 31, 2025.
+Brokered deposits of $723.5 million at September 30, 2026 decreased $574.3 million, or 44%, from June 30, 2026, and $1.0 billion, or 59%, from December 31, 2025. As of September 30, 2026, brokered certificates of deposit had a weighted average remaining maturity of 41 days.
+Liquidity
+The Company maintained strong liquidity, supported by substantial borrowing capacity, including unused lines of credit totaling $6.3 billion as of September 30, 2026, compared to $5.5 billion at June 30, 2026, and $5.3 billion at December 31, 2025.
+The Company’s most liquid assets include cash and cash equivalents, short-term investments, including interest-earning demand deposits, mortgage loans in process of securitization, loans held for sale, and warehouse lines of credit included in loans receivable. Combined with unused borrowing capacity of $6.3 billion, these totaled $13.0 billion, or 62%, of its $20.9 billion of total assets as of September 30, 2026.
+This liquidity position provides the Company with flexibility to manage funding costs, interest expense, and asset levels. In addition, the Company’s business model is designed to continuously sell or securitize a significant portion of its loans, which provides flexibility in managing its liquidity.
+Comparison of Operating Results for the Three Months Ended
+September 30, 2026 and 2025
+Net Interest Income of $144.2 million increased $16.1 million, or 13%, compared to $128.1 million. The increase reflected a $9.4 million, or 3%, increase in interest income and a $6.7 million, or 4%, decrease in interest expense.
+● | Net interest margin of 2.83% increased one basis point compared to 2.82%.
+● | Interest rate spread of 2.44% increased 11 basis points compared to 2.33%.
+Interest Income of $311.2 million increased $9.4 million, or 3%, from $301.8 million. The increase primarily reflected higher average balances of loans and loans held for sale and of interest-earning deposits, and other interest or dividends, partially offset by lower average yields.
+● | Average balances of $16.2 billion for loans and loans held for sale increased 11%, compared to $14.7 billion.
+Page | 3
+● | Average balances of $1.3 billion for interest-earning deposits, and other interest or dividends increased $704.4 million, or 126%, compared to $556.9 million.
+● | Average yields on loans and loans held for sale of 6.40% decreased 48 basis points compared to 6.88%.
+● | Average yields on interest-earning deposits, and other interest or dividends of 4.63% decreased 111 basis points compared to 5.74%.
+Interest Expense of $167.0 million decreased $6.7 million, or 4%, compared to $173.7 million. The decrease primarily reflected lower average balances on certificates of deposit at lower rates, which were partially offset by higher average balances on interest-bearing checking accounts at lower average rates.
+● | Average balances of $1.1 billion for certificates of deposit decreased $1.1 billion, or 50%, compared to $2.2 billion.
+● | Average interest rates of 3.85% on certificates of deposit decreased 72 basis points compared to 4.57%.
+● | Average interest rates of 3.52% for interest-bearing checking accounts decreased 50 basis points compared to 4.02%.
+● | Average balances on interest-bearing checking accounts of $9.4 billion increased $1.9 billion, or 26%, compared to $7.5 billion.
+Provision for Credit Losses was $12.0 million, a decrease of $17.2 million, or 59%, compared to $29.2 million, reflecting improved asset quality, including lower charge-offs.
+Noninterest Income of $80.8 million increased $37.8 million, or 88%, compared to $43.0 million. The increase was primarily due to an increase of $26.2 million, or 329%, in loan servicing fees, and an increase of $16.0 million, or 426%, in other noninterest income, partially offset by a $5.6 million, or 23%, decrease in gain on sale of loans.
+● | Loan servicing fees included a $28.2 million positive fair value adjustment to servicing rights, with a $5.0 million positive adjustment in the Banking segment and a $23.2 million positive adjustment in the Multi-family Mortgage Banking segment. This compared to a $2.1 million positive fair value adjustment to servicing rights in the prior period with a $394,000 negative adjustment in the Banking segment and a $2.5 million positive adjustment in the Multi-family Mortgage Banking segment. Higher interest rates increased the fair value of servicing rights during the period, driven primarily by higher earnings on escrow and custodial balances. These earnings are an ongoing source of servicing income and represent a recurring economic benefit of a higher-rate environment. To a lesser degree, the increase also reflected slower expected prepayments on certain loans, which extend the period over which servicing income is earned.
+● | Other noninterest income included a $19.1 million positive fair value adjustment to floor derivatives, reflected in the Warehouse segment, compared to a $770,000 negative fair value adjustment in the prior period.
+Noninterest Expense of $79.5 million increased $2.3 million, or 3%, from $77.3 million. The increase primarily reflected a $2.9 million increase in credit risk transfer premium expense and higher other noninterest and technology expenses, partially offset by decreases of $3.4 million in deposit insurance expense and $1.6 million in professional fees.
+Comparison of Operating Results for the Three Months Ended
+September 30, 2026 and June 30, 2026
+Net Interest Income of $144.2 million increased $7.7 million, or 6%, compared to $136.5 million. The increase reflected a $17.1 million, or 6%, increase in interest income, partially offset by a $9.5 million, or 6%, increase in interest expense.
+● | Net interest margin of 2.83% increased two basis points compared to 2.81%.
+● | Interest rate spread of 2.44% increased one basis point compared to 2.43%.
+Page | 4
+Interest Income of $311.2 million increased $17.1 million, or 6%, from $294.1 million. The increase primarily reflected higher average yields on loans and loans held for sale, as well as higher average balances at lower yields on interest-earning deposits and other interest or dividends.
+● | Average yields on loans and loans held for sale of 6.40% increased 14 basis points compared to 6.26%.
+● | Average balances of $1.3 billion for interest-earning deposits, and other interest or dividends increased $571.8 million, or 83%, compared to $689.5 million.
+● | Average yields on interest-earning deposits, and other interest or dividends were 4.63%, a decrease of 86 basis points from 5.49%.
+Interest Expense of $167.0 million increased $9.5 million, or 6%, compared to $157.5 million. The increase was primarily driven by higher average balances at higher average rates on interest-bearing checking accounts.
+● | Average balances of $9.4 billion for interest-bearing checking accounts increased $1.5 billion, or 19%, compared to $7.9 billion.
+● | Average interest rates on interest-bearing checking accounts of 3.52% increased by nine basis points compared to 3.43%.
+Provision for Credit Losses increased $2.8 million, or 31%, to $12.0 million from $9.2 million, primarily due to higher specific reserves.
+Noninterest Income of $80.8 million increased $35.1 million, or 77%, from $45.7 million. The increase reflected a $22.2 million, or 185%, increase in loan servicing fees, an $8.0 million, or 68%, increase in other noninterest income, and a $5.9 million, or 45%, increase in gain on sale of loans.
+● | Loan servicing fees included a $28.2 million positive fair value adjustment to servicing rights, consisting of a $5.0 million positive adjustment in the Banking segment and a $23.2 million positive adjustment in the Multi-family Mortgage Banking segment. This compared with a $6.0 million positive fair value adjustment in the prior quarter, consisting of a $1.4 million positive adjustment in the Banking segment and a $4.6 million positive adjustment in the Multi-family Mortgage Banking segment. Higher interest rates increased the fair value of servicing rights during the period, driven primarily by higher earnings on escrow and custodial balances. These earnings are an ongoing source of servicing income and represent a recurring economic benefit of a higher-rate environment. To a lesser degree, the increase also reflected slower expected prepayments on certain loans, which extend the period over which servicing income is earned.
+● | Other noninterest income included a $19.1 million positive fair value adjustment to floor derivatives, reflected in the Warehouse segment, compared to a $1.9 million positive fair value adjustment to derivatives in the prior period.
+Noninterest Expense of $79.5 million increased $6.3 million, or 9%, from $73.2 million, primarily due to a $5.7 million increase in salaries and employee benefits, including higher commissions associated with increased production volume.
+Page | 5
+About Merchants Bancorp
+Merchants Bancorp is a diversified bank holding company headquartered in Carmel, Indiana operating multiple segments, including Multi-family Mortgage Banking that primarily offers multi-family housing and healthcare facility financing and servicing (through this segment it also serves as a syndicator of low-income housing tax credit and debt funds); Mortgage Warehousing that offers mortgage warehouse financing, commercial loans, and deposit services; and Banking that offers retail and correspondent residential mortgage banking, agricultural lending, and traditional community banking. Merchants Bancorp, with $20.9 billion in assets and $15.0 billion in deposits as of September 30, 2026, conducts its business primarily through its direct and indirect subsidiaries, Merchants Bank of Indiana, Merchants Capital Corp., Merchants Capital Investments, LLC, Merchants Capital Servicing, LLC, Merchants Investment Partners, LLC, and Merchants Mortgage, a division of Merchants Bank of Indiana. For more information and financial data, please visit Merchants’ Investor Relations page at investors.merchantsbancorp.com.
+Forward-Looking Statements
+This press release contains forward-looking statements which reflect management’s current views with respect to, among other things, future events and financial performance. These statements are often, but not always, made through the use of words or phrases such as “may,” “might,” “should,” “could,” “predict,” “potential,” “believe,” “expect,” “continue,” “will,” “anticipate,” “seek,” “estimate,” “intend,” “plan,” “projection,” “goal,” “target,” “aim,” “would,” “annualized” and “outlook,” or the negative version of those words or other comparable words or phrases of a future or forward-looking nature. These forward-looking statements are not historical facts, and are based on current expectations, estimates and projections about the industry, management’s beliefs and certain assumptions made by management, many of which, by their nature, are inherently uncertain and beyond our control. Accordingly, management cautions that any such forward-looking statements are not guarantees of future performance and are subject to risks, assumptions, estimates and uncertainties that are difficult to predict. Although the Company believes that the expectations reflected in these forward-looking statements are reasonable as of the date made, actual results may prove to be materially different from the results expressed or implied by the forward-looking statements. A number of important factors could cause actual results to differ materially from those indicated in these forward-looking statements, including the impacts of factors identified in “Risk Factors” or “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Company’s Annual Report on Form 10-K and other periodic filings with the Securities and Exchange Commission. Any forward-looking statements presented herein are made only as of the date of this press release, and the Company does not undertake any obligation to update or revise any forward-looking statements to reflect changes in assumptions, the occurrence of unanticipated events, or otherwise.
+MEDIA CONTACT: REBECCA MARSH
+Merchants Bancorp
+Phone: (317) 805-4356
+Email: rmarsh@bankmerchants.com
+INVESTOR CONTACT: TAMI DURLE
+Merchants Bancorp
+Phone: (317) 324-4556
+Email: tdurle@bankmerchants.com
+Page | 6
+Consolidated Balance Sheets
+(Unaudited)
+(In thousands, except share data)
+September 30, | June 30, | March 31, | December 31, | September 30,
+2026 | 2026 | 2026 | 2025 | 2025
+Assets
+Cash and due from banks | $ | 11,906 | $ | 17,875 | $ | 19,642 | $ | 15,844 | $ | 11,566
+Interest-earning demand accounts | 307,938 | 296,828 | 63,573 | 196,358 | 586,470
+Cash and cash equivalents | 319,844 | 314,703 | 83,215 | 212,202 | 598,036
+Securities purchased under agreements to resell | 1,489 | 1,501 | 1,511 | 1,520 | 1,529
+Mortgage loans in process of securitization | 447,905 | 407,418 | 437,001 | 620,094 | 414,786
+Securities available for sale (includes $496,567, $527,676, $550,207, $571,314 and $591,379 at fair value) | 787,423 | 820,105 | 843,896 | 865,058 | 885,070
+Securities held to maturity (fair value of $1,535,615, $1,353,543, $1,426,444, $1,543,554 and $1,670,306) | 1,535,361 | 1,354,885 | 1,425,982 | 1,543,659 | 1,670,555
+Federal Home Loan Bank (FHLB) stock and other equity securities | 227,589 | 227,589 | 227,589 | 227,589 | 217,850
+Loans held for sale (includes $169,774, $148,368, $163,426, $76,980 and $112,832 at fair value) | 4,043,914 | 4,615,894 | 4,709,688 | 3,873,012 | 4,129,329
+Loans receivable (includes $41,548, $46,024, $46,427, $47,318 and $0 at fair value), net of allowance for credit losses on loans of $82,130, $75,803, $76,831, $83,301 and $93,330 | 12,184,623 | 12,262,800 | 11,399,882 | 10,951,381 | 10,515,221
+Premises and equipment, net | 76,704 | 74,664 | 73,695 | 73,929 | 75,148
+Servicing rights | 267,613 | 236,949 | 229,576 | 217,296 | 213,156
+Interest receivable | 81,042 | 82,078 | 77,326 | 81,807 | 82,445
+Goodwill | 19,144 | 8,014 | 8,014 | 8,014 | 8,014
+Other real estate owned | 91,696 | 72,389 | 60,226 | 60,145 | 4,347
+Other assets and receivables | 799,152 | 750,993 | 744,181 | 713,237 | 539,161
+Total assets | $ | 20,883,499 | $ | 21,229,982 | $ | 20,321,782 | $ | 19,448,943 | $ | 19,354,647
+Liabilities and Shareholders' Equity
+Liabilities
+Deposits
+Noninterest-bearing | $ | 531,108 | $ | 606,682 | $ | 501,864 | $ | 604,081 | $ | 399,814
+Interest-bearing | 14,510,687 | 13,647,632 | 12,449,889 | 12,437,111 | 13,534,891
+Total deposits | 15,041,795 | 14,254,314 | 12,951,753 | 13,041,192 | 13,934,705
+Borrowings | 3,017,581 | 4,282,597 | 4,773,490 | 3,842,592 | 2,902,631
+Deferred and current tax liabilities, net | 60,462 | 50,140 | 46,403 | 33,900 | 28,973
+Other liabilities | 280,364 | 249,127 | 219,833 | 250,500 | 262,904
+Total liabilities | 18,400,202 | 18,836,178 | 17,991,479 | 17,168,184 | 17,129,213
+Commitments and Contingencies
+Shareholders' Equity
+Common stock, without par value
+Authorized - 75,000,000 shares
+Issued and outstanding - 45,940,371 shares, 45,938,075 shares, 45,935,408 shares, 45,893,172 shares and 45,889,238 shares | 245,265 | 244,345 | 243,433 | 243,310 | 242,371
+Preferred stock, without par value - 5,000,000 total shares authorized
+6% Series C Preferred stock - $1,000 per share liquidation preference
+Authorized - 200,000 shares
+Issued and outstanding - 196,181 shares (equivalent to 7,847,233 depositary shares) | 191,084 | 191,084 | 191,084 | 191,084 | 191,084
+8.25% Series D Preferred stock - $1,000 per share liquidation preference
+Authorized - 300,000 shares
+Issued and outstanding - 142,500 shares (equivalent to 5,700,000 depositary shares) | 137,459 | 137,459 | 137,459 | 137,459 | 137,459
+7.625% Series E Preferred stock - $1,000 per share liquidation preference
+Authorized - 230,000 shares
+Issued and outstanding - 230,000 shares (equivalent to 9,200,000 depositary shares) | 222,748 | 222,748 | 222,748 | 222,748 | 222,748
+Retained earnings | 1,689,230 | 1,599,367 | 1,536,383 | 1,486,191 | 1,431,983
+Accumulated other comprehensive loss | (2,489) | (1,199) | (804) | (33) | (211)
+Total shareholders' equity | 2,483,297 | 2,393,804 | 2,330,303 | 2,280,759 | 2,225,434
+Total liabilities and shareholders' equity | $ | 20,883,499 | $ | 21,229,982 | $ | 20,321,782 | $ | 19,448,943 | $ | 19,354,647
+Page | 7
+Consolidated Statement of Income
+(Unaudited)
+(In thousands, except share data)
+Three Months Ended | Change
+September 30, | June 30, | September 30, | 3Q26 | 3Q26
+2026 | 2026 | 2025 | vs. 2Q26 | vs. 3Q25
+Interest Income
+Loans | $ | 261,789 | $ | 252,546 | $ | 254,101 | 4% | 3%
+Mortgage loans in process of securitization | 5,240 | 4,455 | 5,308 | 18% | (1)%
+Investment securities:
+Available for sale | 9,377 | 9,562 | 11,880 | (2)% | (21)%
+Held to maturity | 20,056 | 18,076 | 22,427 | 11% | (11)%
+FHLB stock and other equity securities (dividends) | 4,866 | 4,979 | 4,265 | (2)% | 14%
+Other | 9,858 | 4,454 | 3,798 | 121% | 160%
+Total interest income | 311,186 | 294,072 | 301,779 | 6% | 3%
+Interest Expense
+Deposits | 129,627 | 116,839 | 139,744 | 11% | (7)%
+Short-term borrowings | 34,715 | 37,608 | 25,926 | (8)% | 34%
+Long-term borrowings | 2,675 | 3,089 | 8,051 | (13)% | (67)%
+Total interest expense | 167,017 | 157,536 | 173,721 | 6% | (4)%
+Net Interest Income | 144,169 | 136,536 | 128,058 | 6% | 13%
+Provision for credit losses | 12,003 | 9,184 | 29,239 | 31% | (59)%
+Net Interest Income After Provision for Credit Losses | 132,166 | 127,352 | 98,819 | 4% | 34%
+Noninterest Income
+Gain on sale of loans | 19,045 | 13,160 | 24,671 | 45% | (23)%
+Loan servicing fees, net | 34,225 | 11,992 | 7,986 | 185% | 329%
+Mortgage warehouse fees | 1,698 | 1,857 | 1,736 | (9)% | (2)%
+Syndication and asset management fees | 6,050 | 6,933 | 4,864 | (13)% | 24%
+Other income | 19,754 | 11,738 | 3,757 | 68% | 426%
+Total noninterest income | 80,772 | 45,680 | 43,014 | 77% | 88%
+Noninterest Expense
+Salaries and employee benefits | 44,999 | 39,345 | 44,152 | 14% | 2%
+Loan expense | 998 | 1,177 | 1,263 | (15)% | (21)%
+Occupancy and equipment | 3,360 | 3,462 | 2,453 | (3)% | 37%
+Professional fees | 1,793 | 3,328 | 3,371 | (46)% | (47)%
+Deposit insurance expense | 5,972 | 5,893 | 9,376 | 1% | (36)%
+Technology expense | 3,959 | 2,893 | 2,608 | 37% | 52%
+Credit risk transfer premium expense | 7,106 | 6,100 | 4,194 | 16% | 69%
+Other expense | 11,333 | 11,050 | 9,833 | 3% | 15%
+Total noninterest expense | 79,520 | 73,248 | 77,250 | 9% | 3%
+Income Before Income Taxes | 133,418 | 99,784 | 64,583 | 34% | 107%
+Provision for income taxes | 28,237 | 21,481 | 9,882 | 31% | 186%
+Net Income | $ | 105,181 | $ | 78,303 | $ | 54,701 | 34% | 92%
+Dividends on preferred stock | (10,265) | (10,266) | (10,265) | — | —
+Net Income Available to Common Shareholders | $ | 94,916 | $ | 68,037 | $ | 44,436 | 40% | 114%
+Basic Earnings Per Share | $ | 2.07 | $ | 1.48 | $ | 0.97 | 40% | 113%
+Diluted Earnings Per Share | $ | 2.06 | $ | 1.48 | $ | 0.97 | 39% | 112%
+Weighted-Average Shares Outstanding
+Basic | 45,939,123 | 45,936,610 | 45,887,143
+Diluted | 46,032,977 | 46,005,938 | 45,950,216
+Page | 8
+Consolidated Statement of Income
+(Unaudited)
+(In thousands, except share data)
+Nine Months Ended
+September 30, | September 30,
+2026 | 2025 | Change
+Interest Income
+Loans | $ | 744,604 | $ | 749,022 | (1)%
+Mortgage loans in process of securitization | 14,082 | 14,355 | (2)%
+Investment securities:
+Available for sale | 28,881 | 36,333 | (21)%
+Held to maturity | 57,611 | 69,951 | (18)%
+FHLB stock and other equity securities (dividends) | 14,239 | 13,278 | 7%
+Other | 16,352 | 10,443 | 57%
+Total interest income | 875,769 | 893,382 | (2)%
+Interest Expense
+Deposits | 356,315 | 395,060 | (10)%
+Short-term borrowings | 101,260 | 96,271 | 5%
+Long-term borrowings | 8,841 | 23,078 | (62)%
+Total interest expense | 466,416 | 514,409 | (9)%
+Net Interest Income | 409,353 | 378,973 | 8%
+Provision for credit losses | 36,486 | 89,993 | (59)%
+Net Interest Income After Provision for Credit Losses | 372,867 | 288,980 | 29%
+Noninterest Income
+Gain on sale of loans | 45,711 | 59,632 | (23)%
+Loan servicing fees, net | 61,316 | 18,134 | 238%
+Mortgage warehouse fees | 5,175 | 5,288 | (2)%
+Syndication and asset management fees | 16,100 | 17,960 | (10)%
+Other income | 44,749 | 16,173 | 177%
+Total noninterest income | 173,051 | 117,187 | 48%
+Noninterest Expense
+Salaries and employee benefits | 122,909 | 124,137 | (1)%
+Loan expense | 3,360 | 3,203 | 5%
+Occupancy and equipment | 9,903 | 7,298 | 36%
+Professional fees | 7,888 | 9,424 | (16)%
+Deposit insurance expense | 20,273 | 23,756 | (15)%
+Technology expense | 9,531 | 7,428 | 28%
+Credit risk transfer premium expense | 18,970 | 12,823 | 48%
+Other expense | 35,576 | 28,182 | 26%
+Total noninterest expense | 228,410 | 216,251 | 6%
+Income Before Income Taxes | 317,508 | 189,916 | 67%
+Provision for income taxes | 66,292 | 38,995 | 70%
+Net Income | $ | 251,216 | $ | 150,921 | 66%
+Dividends on preferred stock | (30,796) | (30,796) | —
+Impact of preferred stock redemption | — | (5,371) | (100)%
+Net Income Available to Common Shareholders | $ | 220,420 | $ | 114,754 | 92%
+Basic Earnings Per Share | $ | 4.80 | $ | 2.50 | 92%
+Diluted Earnings Per Share | $ | 4.79 | $ | 2.50 | 92%
+Weighted-Average Shares Outstanding
+Basic | 45,935,256 | 45,865,167
+Diluted | 46,012,252 | 45,931,518
+Page | 9
+Key Operating Results
+(Unaudited)
+($ in thousands, except share data)
+Three Months Ended | Change
+September 30, | June 30, | September 30, | 3Q26 | 3Q26
+2026 | 2026 | 2025 | vs. 2Q26 | vs. 3Q25
+Noninterest expense | $ | 79,520 | $ | 73,248 | $ | 77,250 | 9% | 3%
+Net interest income (before provision for credit losses) | 144,169 | 136,536 | 128,058 | 6% | 13%
+Noninterest income | 80,772 | 45,680 | 43,014 | 77% | 88%
+Total income | $ | 224,941 | $ | 182,216 | $ | 171,072 | 23% | 31%
+Efficiency ratio | 35.35 | % | 40.20 | % | 45.16 | % | (485) | bps | (981) | bps
+Average assets | $ | 21,389,646 | $ | 20,578,875 | $ | 18,813,165 | 4% | 14%
+Net income | 105,181 | 78,303 | 54,701 | 34% | 92%
+Return on average assets before annualizing | 0.49 | % | 0.38 | % | 0.29 | %
+Annualization factor | 4.00 | 4.00 | 4.00
+Return on average assets | 1.97 | % | 1.52 | % | 1.16 | % | 45 | bps | 81 | bps
+Return on average tangible common shareholders' equity (1) | 20.11 | % | 14.95 | % | 10.69 | % | 516 | bps | 942 | bps
+Tangible book value per common share (1) | $ | 41.64 | $ | 39.93 | $ | 36.31 | 4% | 15%
+Tangible common shareholders' equity/tangible assets (1) | 9.17 | % | 8.64 | % | 8.61 | % | 53 | bps | 56 | bps
+Consolidated ratios
+Total capital/risk-weighted assets(2) | 13.3 | % | 12.5 | % | 13.6 | %
+Tier I capital/risk-weighted assets(2) | 12.8 | % | 12.1 | % | 13.0 | %
+Common Equity Tier I capital/risk-weighted assets(2) | 9.9 | % | 9.3 | % | 9.8 | %
+Tier I capital/average assets(2) | 11.5 | % | 11.6 | % | 11.8 | %
+(1) | Non-GAAP financial measure - see “Reconciliation of Non-GAAP Measures” below:
+(2) | As defined by regulatory agencies; September 30, 2026 shown as estimates and prior periods shown as reported.
+Certain non-GAAP financial measures provide useful information to management and investors that is supplementary to the Company’s financial condition, results of operations and cash flows computed in accordance with GAAP; however, they do have a number of limitations. As such, the reader should not view these disclosures as a substitute for results determined in accordance with GAAP, and they are not necessarily comparable to non-GAAP financial measures that other companies use. A reconciliation of GAAP to non-GAAP financial measures is below. Net Income Available to Common Shareholders excludes preferred stock dividends. Tangible common shareholders’ equity is calculated by excluding the balance of goodwill and other intangible assets and preferred stock from the calculation of total equity. Tangible assets is calculated by excluding the balance of goodwill and intangible assets. Tangible book value per share is calculated by dividing tangible common shareholders’ equity by the number of shares outstanding.
+Three Months Ended | Change
+September 30, | June 30, | September 30, | 3Q26 | 3Q26
+2026 | 2026 | 2025 | vs. 2Q26 | vs. 3Q25
+Average shareholders' equity | $ | 2,447,619 | $ | 2,379,573 | $ | 2,221,677 | 3% | 10%
+Less: average goodwill & intangibles | (8,163) | (8,043) | (8,059) | 1% | 1%
+Less: average preferred stock | (551,291) | (551,291) | (551,291) | — | —
+Average tangible common shareholders' equity | $ | 1,888,165 | $ | 1,820,239 | $ | 1,662,327 | 4% | 14%
+Annualization factor | 4.00 | 4.00 | 4.00
+Return on average tangible common shareholders' equity | 20.11 | % | 14.95 | % | 10.69 | % | 516 | bps | 942 | bps
+Total equity | $ | 2,483,297 | $ | 2,393,804 | $ | 2,225,434 | 4% | 12%
+Less: goodwill and intangibles | (19,179) | (8,040) | (8,056) | 139% | 138%
+Less: preferred stock | (551,291) | (551,291) | (551,291) | — | —
+Tangible common shareholders' equity | $ | 1,912,827 | $ | 1,834,473 | $ | 1,666,087 | 4% | 15%
+Assets | $ | 20,883,499 | $ | 21,229,982 | $ | 19,354,647 | (2)% | 8%
+Less: goodwill and intangibles | (19,179) | (8,040) | (8,056) | 139% | 138%
+Tangible assets | $ | 20,864,320 | $ | 21,221,942 | $ | 19,346,591 | (2)% | 8%
+Ending common shares | 45,940,371 | 45,938,075 | 45,889,238
+Tangible book value per common share | $ | 41.64 | $ | 39.93 | $ | 36.31 | 4% | 15%
+Tangible common shareholders' equity/tangible assets | 9.17 | % | 8.64 | % | 8.61 | % | 53 | bps | 56 | bps
+Page | 10
+Key Operating Results
+(Unaudited)
+($ in thousands, except share data)
+Nine Months Ended
+September 30, | September 30,
+2026 | 2025 | Change
+Noninterest expense | $ | 228,410 | $ | 216,251 | 6%
+Net interest income (before provision for credit losses) | 409,353 | 378,973 | 8%
+Noninterest income | 173,051 | 117,187 | 48%
+Total income | $ | 582,404 | $ | 496,160 | 17%
+Efficiency ratio | 39.22 | % | 43.58 | % | (436) | bps
+Average assets | $ | 20,316,082 | $ | 18,546,941 | 10%
+Net income | 251,216 | 150,921 | 66%
+Return on average assets before annualizing | 1.24 | % | 0.81 | %
+Annualization factor | 1.33 | 1.33
+Return on average assets | 1.64 | % | 1.08 | % | 56 | bps
+Return on average tangible common shareholders' equity (1) | 16.06 | % | 9.33 | % | 673 | bps
+Tangible book value per common share (1) | $ | 41.64 | $ | 36.31 | 15%
+Tangible common shareholders' equity/tangible assets (1) | 9.17 | % | 8.61 | % | 56 | bps
+(1) | Non-GAAP financial measure - see “Reconciliation of Non-GAAP Measures” below:
+Certain non-GAAP financial measures provide useful information to management and investors that is supplementary to the Company’s financial condition, results of operations and cash flows computed in accordance with GAAP; however, they do have a number of limitations. As such, the reader should not view these disclosures as a substitute for results determined in accordance with GAAP, and they are not necessarily comparable to non-GAAP financial measures that other companies use. A reconciliation of GAAP to non-GAAP financial measures is below. Net Income Available to Common Shareholders excludes preferred stock dividends. Tangible common shareholders’ equity is calculated by excluding the balance of goodwill and other intangible assets and preferred stock from the calculation of total equity. Tangible assets is calculated by excluding the balance of goodwill and intangible assets. Tangible book value per share is calculated by dividing tangible common shareholders’ equity by the number of shares outstanding.
+Nine Months Ended
+September 30, | September 30,
+2026 | 2025 | Change
+Average shareholders' equity | $ | 2,384,971 | $ | 2,194,786 | 9%
+Less: average goodwill & intangibles | (8,085) | (8,065) | —
+Less: average preferred stock | (551,291) | (551,733) | —
+Average tangible common shareholders' equity | $ | 1,825,595 | $ | 1,634,988 | 12%
+Annualization factor | 1.33 | 1.33
+Return on average tangible common shareholders' equity | 16.06 | % | 9.33 | % | 673 | bps
+Total equity | $ | 2,483,297 | $ | 2,225,434 | 12%
+Less: goodwill and intangibles | (19,179) | (8,056) | 138%
+Less: preferred stock | (551,291) | (551,291) | —
+Tangible common shareholders' equity | $ | 1,912,827 | $ | 1,666,087 | 15%
+Assets | $ | 20,883,499 | $ | 19,354,647 | 8%
+Less: goodwill and intangibles | (19,179) | (8,056) | 138%
+Tangible assets | $ | 20,864,320 | $ | 19,346,591 | 8%
+Ending common shares | 45,940,371 | 45,889,238
+Tangible book value per common share | $ | 41.64 | $ | 36.31 | 15%
+Tangible common shareholders' equity/tangible assets | 9.17 | % | 8.61 | % | 56 | bps
+Page | 11
+Merchants Bancorp
+Average Balance Analysis
+($ in thousands)
+(Unaudited)
+Three Months Ended
+September 30, 2026 | June 30, 2026 | September 30, 2025
+Average | Yield/ | Average | Yield/ | Average | Yield/
+Balance | Interest | Rate | Balance | Interest | Rate | Balance | Interest | Rate
+Assets:
+Interest-earning deposits, and other interest or dividends | $ | 1,261,259 | $ | 14,724 | 4.63% | $ | 689,479 | $ | 9,433 | 5.49% | $ | 556,894 | $ | 8,063 | 5.74%
+Securities available for sale | 811,347 | 9,377 | 4.59% | 832,715 | 9,562 | 4.61% | 923,603 | 11,880 | 5.10%
+Securities held to maturity | 1,547,486 | 20,056 | 5.14% | 1,398,098 | 18,076 | 5.19% | 1,510,857 | 22,427 | 5.89%
+Mortgage loans in process of securitization | 385,028 | 5,240 | 5.40% | 353,297 | 4,455 | 5.06% | 395,388 | 5,308 | 5.33%
+Loans and loans held for sale | 16,223,620 | 261,789 | 6.40% | 16,185,486 | 252,546 | 6.26% | 14,654,535 | 254,101 | 6.88%
+Total interest-earning assets | 20,228,740 | 311,186 | 6.10% | 19,459,075 | 294,072 | 6.06% | 18,041,277 | 301,779 | 6.64%
+Allowance for credit losses on loans | (75,220) | (80,566) | (105,347)
+Noninterest-earning assets | 1,236,126 | 1,200,366 | 877,235
+Total assets | $ | 21,389,646 | $ | 20,578,875 | $ | 18,813,165
+Liabilities & Shareholders' Equity:
+Interest-bearing checking | $ | 9,374,540 | 83,186 | 3.52% | $ | 7,891,368 | 67,395 | 3.43% | $ | 7,451,868 | 75,415 | 4.02%
+Money market/savings deposits | 3,966,775 | 35,540 | 3.55% | 4,117,113 | 36,120 | 3.52% | 3,806,731 | 38,547 | 4.02%
+Certificates of deposit | 1,123,002 | 10,901 | 3.85% | 1,386,717 | 13,324 | 3.85% | 2,238,401 | 25,782 | 4.57%
+Total interest-bearing deposits | 14,464,317 | 129,627 | 3.56% | 13,395,198 | 116,839 | 3.50% | 13,497,000 | 139,744 | 4.11%
+Borrowings | 3,641,885 | 37,390 | 4.07% | 4,017,881 | 40,697 | 4.06% | 2,476,365 | 33,977 | 5.44%
+Total interest-bearing liabilities | 18,106,202 | 167,017 | 3.66% | 17,413,079 | 157,536 | 3.63% | 15,973,365 | 173,721 | 4.31%
+Noninterest-bearing deposits | 562,897 | 542,526 | 392,569
+Noninterest-bearing liabilities | 272,928 | 243,697 | 225,554
+Total liabilities | 18,942,027 | 18,199,302 | 16,591,488
+Shareholders' equity | 2,447,619 | 2,379,573 | 2,221,677
+Total liabilities and shareholders' equity | $ | 21,389,646 | $ | 20,578,875 | $ | 18,813,165
+Net interest income | $ | 144,169 | $ | 136,536 | $ | 128,058
+Net interest spread | 2.44% | 2.43% | 2.33%
+Net interest-earning assets | $ | 2,122,538 | $ | 2,045,996 | $ | 2,067,912
+Net interest margin | 2.83% | 2.81% | 2.82%
+Average interest-earning assets to average interest-bearing liabilities | 111.72% | 111.75% | 112.95%
+Page | 12
+Supplemental Results
+(Unaudited)
+($ in thousands)
+Net Income | Net Income
+Three Months Ended | Nine Months Ended
+September 30, | June 30, | September 30, | September 30,
+2026 | 2026 | 2025 | 2026 | 2025
+Segment
+Multi-family Mortgage Banking | $ | 30,817 | $ | 10,336 | $ | 12,076 | $ | 52,167 | $ | 24,758
+Mortgage Warehousing | 44,550 | 30,599 | 23,564 | 103,797 | 61,948
+Banking | 43,774 | 47,337 | 29,551 | 129,091 | 91,232
+Other | (13,960) | (9,969) | (10,490) | (33,839) | (27,017)
+Total | $ | 105,181 | $ | 78,303 | $ | 54,701 | $ | 251,216 | $ | 150,921
+Total Assets
+September 30, 2026 | June 30, 2026 | December 31, 2025
+Amount | % | Amount | % | Amount | %
+Segment
+Multi-family Mortgage Banking | $ | 579,955 | 3% | $ | 567,941 | 2% | $ | 526,423 | 3%
+Mortgage Warehousing | 8,086,866 | 39% | 8,647,738 | 41% | 7,251,653 | 37%
+Banking | 11,760,899 | 56% | 11,581,635 | 55% | 11,307,401 | 58%
+Other | 455,779 | 2% | 432,668 | 2% | 363,466 | 2%
+Total | $ | 20,883,499 | 100% | $ | 21,229,982 | 100% | $ | 19,448,943 | 100%
+Gain on Sale of Loans | Gain on Sale of Loans
+Three Months Ended | Nine Months Ended
+September 30, | June 30, | September 30, | September 30,
+2026 | 2026 | 2025 | 2026 | 2025
+Loan Type
+Multi-family | $ | 18,583 | $ | 11,755 | $ | 22,458 | $ | 41,760 | $ | 52,398
+Single-family | (403) | 489 | 775 | 474 | 3,409
+Small Business Association (SBA) | 865 | 916 | 1,438 | 3,477 | 3,825
+Total | $ | 19,045 | $ | 13,160 | $ | 24,671 | $ | 45,711 | $ | 59,632
+Servicing Rights | Servicing Rights
+Three Months Ended | Nine Months Ended
+September 30, | June 30, | September 30, | September 30,
+2026 | 2026 | 2025 | 2026 | 2025
+Balance, beginning of period | $ | 236,949 | $ | 229,576 | $ | 193,037 | $ | 217,296 | $ | 189,935
+Additions
+Purchased servicing | 110 | - | 12,858 | 235 | 12,928
+Originated servicing | 5,422 | 4,010 | 7,588 | 15,181 | 16,170
+Subtractions
+Paydowns | (3,019) | (2,652) | (2,450) | (8,203) | (7,504)
+Changes in fair value | 28,151 | 6,015 | 2,123 | 43,104 | 1,627
+Balance, end of period | $ | 267,613 | $ | 236,949 | $ | 213,156 | $ | 267,613 | $ | 213,156
+Page | 13
+Supplemental Results
+(Unaudited)
+($ in thousands)
+Loans Receivable and Loans Held for Sale
+September 30, | June 30, | December 31,
+2026 | 2026 | 2025
+Mortgage warehouse repurchase agreements (4) | $ | 1,901,659 | $ | 2,168,175 | $ | 1,600,285
+Residential real estate (1) | 1,044,688 | 1,078,358 | 1,018,780
+Multi-family financing | 6,088,475 | 5,855,477 | 5,332,680
+Healthcare financing | 1,160,189 | 1,303,597 | 1,385,359
+Commercial and commercial real estate (2)(3)(4) | 1,972,519 | 1,837,427 | 1,603,551
+Agricultural production and real estate | 95,392 | 91,609 | 92,077
+Consumer and margin loans | 3,831 | 3,960 | 1,950
+Loans receivable | 12,266,753 | 12,338,603 | 11,034,682
+Less: Allowance for credit losses on loans | 82,130 | 75,803 | 83,301
+Loans receivable, net | $ | 12,184,623 | $ | 12,262,800 | $ | 10,951,381
+Loans held for sale (4) | 4,043,914 | 4,615,894 | 3,873,012
+Total loans, net of allowance | $ | 16,228,537 | $ | 16,878,694 | $ | 14,824,393
+(1) | Includes $0.8 billion of All-In-One © first-lien home equity lines of credit as of September 30, 2026, June 30, 2026 and December 31, 2025.
+(2) | Includes $1.2 billion, $1.2 billion and $0.9 billion of revolving lines of credit collateralized primarily by mortgage servicing rights as of September 30, June 30, 2026 and December 31, 2025, respectively.
+(3) | Includes only $6.9 million, $19.0 million and $19.5 million of non-owner occupied commercial real estate as of September 30, 2026, June 30, 2026 and December 31, 2025, respectively.
+(4) | The warehouse portfolio is exclusively made up of loans to residential and multi-family mortgage bankers that are funding agency-eligible mortgages and commercial loans, which represent all of the Company’s loans to non-depository institutions.
+Loan Credit Risk Profile
+September 30, 2026 | June 30, 2026 | December 31, 2025
+Amount | % | Amount | % | Amount | %
+Pass | $ | 11,806,653 | 96.2% | $ | 11,893,874 | 96.4% | $ | 10,526,493 | 95.4%
+Special mention | 181,402 | 1.5% | 214,786 | 1.7% | 204,918 | 1.9%
+Substandard | 278,698 | 2.3% | 229,943 | 1.9% | 303,271 | 2.7%
+Criticized loans | 460,100 | 3.8% | 444,729 | 3.6% | 508,189 | 4.6%
+Total loans receivable | $ | 12,266,753 | 100.0% | $ | 12,338,603 | 100.0% | $ | 11,034,682 | 100.0%
+Charge-offs (year-to-date) | $ | 43,398 | $ | 39,511 | $ | 124,116
+Recoveries (year-to-date) | $ | 5,612 | $ | 5,405 | $ | 127
+Nonperforming Loans
+September 30, | June 30, | December 31,
+2026 | 2026 | 2025
+Nonaccrual loans | $ | 177,568 | $ | 205,545 | $ | 197,812
+90 days past due and still accruing | 2,710 | 87 | —
+Total nonperforming loans | $ | 180,278 | $ | 205,632 | $ | 197,812
+Other real estate owned | 91,696 | 72,389 | 60,145
+Total nonperforming assets | $ | 271,974 | $ | 278,021 | $ | 257,957
+Nonperforming loans to total loans receivable | 1.47 | % | 1.67 | % | 1.79 | %
+Nonperforming assets to total assets | 1.30 | % | 1.31 | % | 1.33 | %
+Delinquent Loans
+September 30, | June 30, | December 31,
+2026 | 2026 | 2025
+Delinquent loans:
+Loans receivable | $ | 215,560 | $ | 207,700 | $ | 206,561
+Loans held for sale | — | 263 | 265
+Total delinquent loans | $ | 215,560 | $ | 207,963 | $ | 206,826
+Total loans receivable and loans held for sale | $ | 16,310,667 | $ | 16,954,497 | $ | 14,907,694
+Delinquent loans to total loans | 1.32 | % | 1.23 | % | 1.39 | %
+Page | 14
+Supplemental Results
+(Unaudited)
+($ in thousands)
+Deposits
+September 30, | June 30, | December 31,
+2026 | 2026 | 2025
+Noninterest-bearing deposits
+Core demand deposits | $ | 531,108 | $ | 606,682 | $ | 604,081
+Interest-bearing deposits
+Demand deposits:
+Core demand deposits | $ | 9,329,208 | $ | 7,820,104 | $ | 6,207,814
+Brokered demand deposits | 350,321 | 503,257 | 600,000
+Total interest-bearing demand deposits | 9,679,529 | 8,323,361 | 6,807,814
+Money market/savings deposits:
+Core money market/savings deposits | 3,993,613 | 3,944,677 | 3,566,523
+Brokered money market/savings deposits | 381 | 2,912 | 201,010
+Total money market/savings deposits | 3,993,994 | 3,947,589 | 3,767,533
+Certificates of deposit:
+Core certificates of deposits | 464,364 | 585,061 | 905,448
+Brokered certificates of deposits | 372,800 | 791,621 | 956,316
+Total certificates of deposits | 837,164 | 1,376,682 | 1,861,764
+Total interest-bearing deposits | 14,510,687 | 13,647,632 | 12,437,111
+Total deposits | $ | 15,041,795 | $ | 14,254,314 | $ | 13,041,192
+Total core deposits | $ | 14,318,293 | $ | 12,956,524 | $ | 11,283,866
+Total brokered deposits | 723,502 | 1,297,790 | 1,757,326
+Total deposits | $ | 15,041,795 | $ | 14,254,314 | $ | 13,041,192
+Page | 15

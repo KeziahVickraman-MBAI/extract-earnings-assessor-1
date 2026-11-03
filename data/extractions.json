@@ -246,5 +246,239 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1005817/000100581726000139/q32026pressrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1005817/000100581726000139/0001005817-26-000139-index.htm",
     "saved_at": "2026-10-25T21:53:43+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,228 | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 25% year over year.",
+        "quote": "Our deep full stack approach is driving momentum across the business, with Alphabet revenues growing 25% year-over year."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Google Cloud revenues grew 103%, driven by demand for AI infrastructure and solutions.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and describes momentum across the business; no headwind is mentioned."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:07:50+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of 2026 Amazon expects net sales of $240.0 billion to $247.0 billion, growth of 12% to 16%.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "Operating income was $28.1 billion, with the highest operating margin Amazon has reported.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "AWS revenue grew over 39% year over year.",
+        "quote": "over 39% year-over-year revenue growth in Q3 ($184 billion revenue run rate)"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income fell slightly, mainly because of large investment gains in the same quarter last year.",
+        "quote": "Net income decreased to $20.7 billion in the third quarter, or $1.89 per diluted share, compared with $21.2 billion, or $1.95 per diluted share, in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and describes progress in retail and newer businesses."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:07:50+08:00"
+  },
+  {
+    "cik": "1629019",
+    "company": "Merchants Bancorp",
+    "accession": "0001104659-26-119617",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 105.181,
+        "unit": "USD millions",
+        "quote": "Net Income | $ | 105,181 | $ | 78,303 | $ | 54,701"
+      },
+      "diluted_eps": {
+        "value": 2.06,
+        "unit": "USD per share",
+        "quote": "Diluted Earnings Per Share | $ | 2.06 | $ | 1.48 | $ | 0.97"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Earnings rose 92% from a year earlier.",
+        "quote": "Net income of $105.2 million in the third quarter of 2026 increased $50.5 million, or 92%, compared to the third quarter of 2025"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Higher servicing rights and derivative valuations helped earnings against pressure on gain on sale revenue.",
+        "quote": "higher servicing rights and derivative valuations that provide an earnings hedge to pressure on gain on sale revenue in the current interest rate environment"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The recent acquisition may be dilutive to earnings and raise expenses during ramp-up.",
+        "quote": "the acquired operations are expected to result in elevated operating expenses and may be dilutive to earnings as production increases and integration activities progress"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says results show the strength of the business, though he notes the migration within criticized loans."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1629019-0001104659-26-119617.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1629019/000110465926119617/mbin-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1629019/000110465926119617/0001104659-26-119617-index.htm",
+    "saved_at": "2026-11-04T06:07:50+08:00"
+  },
+  {
+    "cik": "1505732",
+    "company": "Bankwell Financial Group, Inc.",
+    "accession": "0001628280-26-068043",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 35.327,
+        "unit": "USD millions",
+        "quote": "Total revenues | 35,327 | 32,783"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 12.735,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 12,735 | $ | 12,372"
+      },
+      "diluted_eps": {
+        "value": 1.58,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.58 | $ | 1.52"
+      }
+    },
+    "guidance": {
+      "text": "For full-year 2026 the company expects net interest income of $119 to $121 million and non-interest income of $14 to $15 million.",
+      "quote": "We now expect net interest income of $119 to $121 million and non-interest income of $14 to $15 million, reflecting continued strength in our SBA platform."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO reports record third-quarter earnings despite core conversion costs.",
+        "quote": "We delivered record earnings for the third quarter, with GAAP net income of $12.7 million, or $1.58 per share, despite absorbing $3.0 million of costs related to our core conversion."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Net interest margin expanded to 3.71%.",
+        "quote": "Net Interest Margin expanded to 3.71%"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Full-year guidance for net interest income and non-interest income was raised.",
+        "quote": "we are updating our full-year 2026 guidance. We now expect net interest income of $119 to $121 million and non-interest income of $14 to $15 million"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO reports record earnings, improving asset quality and a raised outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1505732-0001628280-26-068043.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1505732/000162828026068043/ex991q32026earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1505732/000162828026068043/0001628280-26-068043-index.htm",
+    "saved_at": "2026-11-04T06:07:50+08:00"
   }
 ]
