@@ -1,0 +1,27 @@
+Company: DORCHESTER MINERALS, L.P. (CIK 1172358)
+Accession: 0001437749-26-035264
+Results released: 2026-11-05
+Press release: https://www.sec.gov/Archives/edgar/data/1172358/000143774926035264/ex_1039054.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1172358/000143774926035264/0001437749-26-035264-index.htm
+Saved: 2026-11-11T06:13:48+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_1039054.htm EXHIBIT 99.1
+Exhibit 99.1
+NEWS RELEASE | Dorchester Minerals, L.P.
+Release Date: | November 5, 2026 | 3838 Oak Lawn Ave., Suite 300
+Dallas, Texas 75219-4541
+Contact: | Martye Miller | (214) 559-0300
+Dorchester Minerals, L.P. Announces Third Quarter Results
+DALLAS, TEXAS -- Dorchester Minerals, L.P. (the “Partnership”) (NASDAQ-DMLP) announced today the Partnership’s net income for the quarter ended September 30, 2026 of $27,583,000, or $0.54 per common unit.
+A comparison of the Partnership’s consolidated results for the quarters ended September 30, 2026 and 2025 are set forth below:
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+Operating Revenues | $ | 51,411,000 | $ | 35,416,000 | $ | 166,361,000 | $ | 110,975,000
+Net Income | $ | 27,583,000 | $ | 11,173,000 | $ | 87,591,000 | $ | 41,162,000
+Net Income Per Common Unit | $ | 0.54 | $ | 0.23 | $ | 1.75 | $ | 0.84
+The Partnership previously declared its third quarter distribution in the amount of $0.882297 per common unit payable on November 12, 2026 to common unitholders of record as of November 2, 2026. The Partnership’s cash distributions are not comparable to its net earnings due to timing and other differences, including depletion.
+Dorchester Minerals, L.P. is a Dallas based owner of producing and non-producing oil and natural gas mineral, royalty, overriding royalty, net profits, and leasehold interests located in 28 states. Its common units trade on the NASDAQ Global Select Market under the symbol DMLP.
+FORWARD-LOOKING STATEMENTS
+Portions of this document may constitute "forward-looking statements" as defined by federal law. Such statements are subject to certain risks, uncertainties and assumptions. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those anticipated, estimated or projected. Examples of such uncertainties and risk factors include, but are not limited to, changes in the price or demand for oil and natural gas, changes in the operations on or development of the Partnership’s properties, changes in economic and industry conditions and changes in regulatory requirements (including changes in environmental requirements) and the Partnership’s financial position, business strategy and other plans and objectives for future operations. These and other factors are set forth in the Partnership's filings with the Securities and Exchange Commission.

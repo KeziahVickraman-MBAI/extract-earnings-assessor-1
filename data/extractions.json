@@ -480,5 +480,90 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1505732/000162828026068043/ex991q32026earningsrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1505732/000162828026068043/0001628280-26-068043-index.htm",
     "saved_at": "2026-11-04T06:07:50+08:00"
+  },
+  {
+    "cik": "1404912",
+    "company": "KKR & Co. Inc.",
+    "accession": "0001404912-26-000030",
+    "release_date": "2026-11-09",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 4563.679,
+        "unit": "USD millions",
+        "quote": "Total Revenues $ 5,525,975 $ 4,563,679"
+      },
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": {
+        "value": 1.19,
+        "unit": "USD per share",
+        "quote": "Net Income (Loss) Attributable to KKR & Co. Inc. Per Share of Common Stock Basic $ 0.97 $ 1.25 $ 1.27 $ 2.40 Diluted $ 0.90 $ 1.19"
+      }
+    },
+    "guidance": {
+      "text": "KKR expects the sale of USI, if it closes, to add about $2.0 billion of adjusted net income, or over $2.00 per share, to its fourth-quarter 2026 results.",
+      "quote": "Subject to closing, KKR expects to generate approximately $2.0 billion of ANI, or over $2.00 ANI per share in its 4Q'26 results"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Management says KKR reported record fee related earnings, total operating earnings and adjusted net income per share for the second quarter in a row.",
+        "quote": "For the second consecutive quarter, KKR is reporting record Fee Related Earnings, Total Operating Earnings and Adjusted Net Income per share, both on a quarterly and trailing twelve-month basis."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management expects to return more than $40 billion to clients in 2026, over 50% above its previous annual record.",
+        "quote": "In 2026, we expect to return more than $40 billion to our clients, exceeding our previous annual record by more than 50%."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects strategic holdings to contribute more to total operating earnings over time.",
+        "quote": "Over time, we expect Strategic Holdings Operating Earnings to contribute more meaningfully to Total Operating Earnings"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The co-CEOs stress record earnings per share and record capital returns to clients, and mention no headwind in their own words."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1404912-0001404912-26-000030.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000030/q326earningsrelease_vf.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000030/0001404912-26-000030-index.htm",
+    "saved_at": "2026-11-11T06:13:48+08:00"
+  },
+  {
+    "cik": "1172358",
+    "company": "DORCHESTER MINERALS, L.P.",
+    "accession": "0001437749-26-035264",
+    "release_date": "2026-11-05",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 51.411,
+        "unit": "USD millions",
+        "quote": "Operating Revenues | $ | 51,411,000"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 27.583,
+        "unit": "USD millions",
+        "quote": "Net Income | $ | 27,583,000"
+      },
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/1172358-0001437749-26-035264.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1172358/000143774926035264/ex_1039054.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1172358/000143774926035264/0001437749-26-035264-index.htm",
+    "saved_at": "2026-11-11T06:13:48+08:00"
   }
 ]
