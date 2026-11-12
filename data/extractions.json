@@ -565,5 +565,93 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1172358/000143774926035264/ex_1039054.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1172358/000143774926035264/0001437749-26-035264-index.htm",
     "saved_at": "2026-11-11T06:13:48+08:00"
+  },
+  {
+    "cik": "924168",
+    "company": "ENERGY FOCUS, INC/DE",
+    "accession": "0001628280-26-072504",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 4.801,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 4,801"
+      },
+      "operating_income": {
+        "value": 0.521,
+        "unit": "USD millions",
+        "quote": "Income (loss) from operations | 521"
+      },
+      "net_income": {
+        "value": 0.531,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | 531"
+      },
+      "diluted_eps": {
+        "value": 0.08,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.08"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales rose 481.2% on the third quarter of 2025, driven by commercial sales from the UPS business with a new customer in Taiwan.",
+        "quote": "Net sales of $4.8 million, an increase of 481.2% compared with the third quarter of 2025, reflecting an increase of $4.3 million, or 2115.8% in commercial sales period-over-period."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Gross margin rose to 20.5% from 17.8% a year earlier, helped by a customs duty refund of about $184 thousand.",
+        "quote": "Gross profit margin was 20.5% in the third quarter of 2026, compared with 17.8% in the third quarter of 2025 and (6.8)% in the second quarter of 2026."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The company made an operating income of $0.5 million, against operating losses a year earlier and in the second quarter.",
+        "quote": "Income from operations of $0.5 million in the third quarter of 2026, compared with a loss from operations of $0.2 million in the third quarter of 2025 and a loss from operations of $0.9 million in the second quarter of 2026."
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "Cash rose to $3.3 million, helped by short-term borrowings and the timing of customer and supplier payments.",
+        "quote": "Cash was $3.3 million as of September 30, 2026, compared with $1.1 million and $0.9 million as of December 31, 2025 and September 30, 2025, respectively."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The highlights report strong growth and a return to profit, but credit much of it to one new customer, a one-off refund and payment timing."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/924168-0001628280-26-072504.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/924168/000162828026072504/ex991efoi3q2026earningsrel.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/924168/000162828026072504/0001628280-26-072504-index.htm",
+    "saved_at": "2026-11-13T06:08:21+08:00"
+  },
+  {
+    "cik": "1728328",
+    "company": "InMed Pharmaceuticals Inc.",
+    "accession": "0001193125-26-455640",
+    "release_date": "2026-11-10",
+    "period_end": "2026-06-30",
+    "period_label": "no quarterly results; pro forma merger figures to 30 June 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/1728328-0001193125-26-455640.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1728328/000119312526455640/d539218dex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1728328/000119312526455640/0001193125-26-455640-index.htm",
+    "saved_at": "2026-11-13T06:08:21+08:00"
   }
 ]

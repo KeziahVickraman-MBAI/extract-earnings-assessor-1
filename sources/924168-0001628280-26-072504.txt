@@ -1,0 +1,208 @@
+Company: ENERGY FOCUS, INC/DE (CIK 924168)
+Accession: 0001628280-26-072504
+Results released: 2026-11-10
+Press release: https://www.sec.gov/Archives/edgar/data/924168/000162828026072504/ex991efoi3q2026earningsrel.htm
+Filing: https://www.sec.gov/Archives/edgar/data/924168/000162828026072504/0001628280-26-072504-index.htm
+Saved: 2026-11-13T06:08:21+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex991efoi3q2026earningsrel.htm EX-99.1
+Exhibit 99.1
+Energy Focus, Inc. Reports Third Quarter 2026 Financial Results
+SOLON, Ohio, November 10, 2026 -- Energy Focus, Inc. (NASDAQ:EFOI) (the “Company” or “Energy Focus”), a leader in sustainable, energy-efficient lighting and control system products for the commercial market and military maritime market (“MMM”), today announced its financial results for the third quarter ended September 30, 2026.
+Third Quarter 2026 Financial Highlights:
+•Net sales of $4.8 million, an increase of 481.2% compared with the third quarter of 2025, reflecting an increase of $4.3 million, or 2115.8% in commercial sales period-over-period. Sequentially, net sales increased 28.1% compared with the second quarter of 2026, primarily reflecting increases of approximately $2.2 million in commercial sales, partially offset by a decrease of $1.4 million in military sales. The net sales increase in commercial sales was primarily driven by the expansion of the Company's Uninterruptible Power Supply (“UPS”) business with a new customer in Taiwan during the third quarter of 2026, including related installation and setup services.
+•Gross profit margin was 20.5% in the third quarter of 2026, compared with 17.8% in the third quarter of 2025 and (6.8)% in the second quarter of 2026. The increase was primarily driven by higher commercial sales resulting from the expansion of the Company's UPS business with a new customer in Taiwan, as well as a more favorable product mix. In addition, during the third quarter of 2026, the Company received a refund of approximately $184 thousand from U.S. Customs and Border Protection ("CBP") related to customs duties previously paid, which was recorded as a reduction to cost of goods sold and positively impacted gross profit.
+•Income from operations of $0.5 million in the third quarter of 2026, compared with a loss from operations of $0.2 million in the third quarter of 2025 and a loss from operations of $0.9 million in the second quarter of 2026. The increase was primarily driven by higher commercial sales resulting from the expansion of the Company's UPS business with a new customer in Taiwan.
+•Net income was $0.5 million, or $0.08 per basic and diluted share of common stock, in the third quarter of 2026, compared with a net loss of $0.2 million, or $(0.03) per basic and diluted share, in the third quarter of 2025 and net loss of $0.9 million, or $(0.14) per basic and diluted share, in the second quarter of 2026.
+•Cash was $3.3 million as of September 30, 2026, compared with $1.1 million and $0.9 million as of December 31, 2025 and September 30, 2025, respectively. The increase was primarily due to proceeds of $0.9 million from short-term borrowings and the timing difference between customer collections and payments to suppliers, as certain customer payments had been received while the related supplier payments remained outstanding as of September 30, 2026.
+Third Quarter 2026 Financial Results:
+Net sales were $4.8 million in the third quarter of 2026, an increase of $4.0 million, or 481.2%, compared with $0.8 million in the third quarter of 2025. The increase in commercial sales of $4.3 million, or 2115.8% was driven by higher commercial sales resulting from the expansion of the Company's UPS business with a new customer in Taiwan. Sequentially, net sales increased $1.1 million, or 28.1%, compared with $3.7 million in the second quarter of 2026. Setup
+32000 Aurora Road, Solon, OH 44139 • www.energyfocus.com • 800.327.7877
+service revenue also increased from $4 thousand in the second quarter of 2026 to $254 thousand in the third quarter of 2026, primarily attributable to installation and related services associated with the same UPS project in Taiwan.
+Gross profit was $1.0 million, representing a gross margin of 20.5% of net sales in the third quarter of 2026, compared with gross profit of $0.1 million, representing a gross margin of 17.8% of net sales in the third quarter of 2025. The year-over-year increase in gross profit margin was driven mainly by higher commercial sales resulting from the expansion of the Company's UPS business with a new customer in Taiwan, as well as a more favorable product mix. In addition, during the third quarter of 2026, the Company received a refund of approximately $184 thousand from U.S. CBP related to customs duties previously paid, which was recorded as a reduction to cost of goods sold and positively impacted gross profit.
+Adjusted gross margin, as defined under “Non-GAAP Measures” below, was 37.2% for the third quarter of 2026, compared with 27.2% in the third quarter of 2025. The increase was primarily attributable to higher variable margins in the third quarter of 2026. Sequentially, adjusted gross margin increased from 4.5% in the second quarter of 2026 to 37.2% in the third quarter of 2026, representing an increase of 32.7 percentage points. The increase was driven by higher commercial sales resulting from the expansion of the Company's UPS business with a new customer in Taiwan, as well as a more favorable product mix during the quarter.
+Operating income was $0.5 million for the third quarter of 2026, an increase of $0.7 million compared with an operating loss of $0.2 million in the third quarter of 2025, and an increase of $1.4 million compared with an operating loss of $0.9 million in the second quarter of 2026. Net income was $0.5 million, or $0.08 per basic and diluted share of common stock in the third quarter of 2026, compared with a net loss of $0.2 million, or $(0.03) per basic and diluted share, in the third quarter of 2025 and net loss of $0.9 million, or $(0.14) per basic and diluted share, in the second quarter of 2026.
+Adjusted EBITDA, as defined under “Non-GAAP Measures” below, was $0.5 million in the third quarter of 2026, compared with $(0.1) million in the third quarter of 2025 and $(0.9) million in the second quarter of 2026. The improvement was primarily driven by higher commercial sales resulting from the expansion of the Company's UPS business with a new customer in Taiwan, partially offset by inventory provisions and write-offs.
+Net cash provided by operating activities was $1.5 million in the nine months ended September 30, 2026. Net loss in the nine months ended September 30, 2026 was $0.5 million, adjusted for non-cash items, including depreciation, provisions for inventory, warranty, accounts receivable reserves and working capital changes. During the nine months ended September 30, 2026, major adjustments included a $1.8 million change in accounts receivable caused by specific timing of collecting accounts receivable, which was offset by a $2.1 million change in related party accounts payable due to timing of inventory receipts and payments.
+About Energy Focus
+Energy Focus is a leader in energy-efficient light-emitting diode (“LED”) lighting and energy infrastructure solutions. As the creator of the first flicker-free LED lamps, Energy Focus develops high quality LED lighting products and controls that provide extensive energy and maintenance savings, as well as aesthetics, safety, health and sustainability benefits over conventional lighting. Energy Focus is headquartered in Solon, Ohio. For more information, visit our website at www.energyfocus.com. The Company routinely posts important updates on its website.
+32000 Aurora Road, Solon, OH 44139 • www.energyfocus.com • 800.327.7877
+Forward-Looking Statements:
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements include statements regarding our expansion initiatives in new geographic markets, our growth initiatives in energy infrastructure and new product sectors, our expectations regarding new partnerships and customer relationships, demand recovery in military and commercial markets, product development strategy, and future performance. Important factors that could cause actual results to differ materially include our need for additional financing to continue operations and substantial doubt about our ability to continue as a going concern, dependence on private placements with related parties and resulting shareholder dilution, reliance on a limited number of customers including dependence on single large projects, dependence on military maritime customers and ongoing federal budget uncertainties, risks associated with expansion in new geographic markets where we lack established presence, early stage of new customer relationships with no assurance of long-term partnerships or material revenue, uncertainty regarding whether new product initiatives will achieve market acceptance or generate meaningful revenue, global trade policies including tariffs that could materially increase costs, reliance on related party suppliers and global supply chain disruptions, elevated inventory reserves, ability to compete against companies with greater resources, significant expense fluctuations, ability to comply with government contracting laws and regulations, and other risks detailed in our filings with the Securities and Exchange Commission. The forward-looking statements made in this press release speak only as of the date of this press release, and we undertake no obligation to update these statements except as required by law.
+###
+Investor Contact:
+Chiao Chieh Jay Huang
+Chief Executive Officer
+(800) 327-7877
+32000 Aurora Road, Solon, OH 44139 • www.energyfocus.com • 800.327.7877
+Condensed Consolidated Balance Sheets
+(unaudited)
+(in thousands, except per share data)
+September 30, 2026 | December 31, 2025
+(Unaudited)
+ASSETS
+Current assets:
+Cash | $ | 3,334 | $ | 1,064
+Trade accounts receivable, less allowances of $227 and $33, respectively | 2,153 | 526
+Inventories, net | 1,015 | 2,930
+Prepayments to vendors | 573 | 3
+Prepaid and other current assets | 196 | 126
+Total current assets | 7,271 | 4,649
+Property and equipment, net | 107 | 97
+Operating lease, right-of-use asset | 109 | 207
+Advance for investment in joint venture | 535 | 156
+Total assets | $ | 8,022 | $ | 5,109
+LIABILITIES
+Current liabilities:
+Accounts payable | $ | 207 | $ | 158
+Accounts payable - related party | 2,521 | 386
+Accrued liabilities | 40 | 56
+Accrued legal and professional fees | 72 | 44
+Accrued payroll and related benefits | 32 | 47
+Accrued sales commissions | 2 | 1
+Accrued warranty reserve | 249 | 91
+Operating lease liabilities | 115 | 139
+Short-term borrowings | 911 | —
+Total current liabilities | 4,149 | 922
+(continued on next page)
+32000 Aurora Road, Solon, OH 44139 • www.energyfocus.com • 800.327.7877
+Condensed Consolidated Balance Sheets
+(unaudited)
+(in thousands, except per share data)
+September 30, 2026 | December 31, 2025
+(Unaudited)
+Operating lease liabilities, net of current portion | — | 78
+Total liabilities | 4,149 | 1,000
+STOCKHOLDERS' EQUITY
+Preferred stock, par value $0.0001 per share:
+Authorized: 5,000,000 shares (3,300,000 shares designated as Series A Convertible Preferred Stock) as of September 30, 2026 and December 31, 2025
+Issued and outstanding: 876,447 as of September 30, 2026 and December 31, 2025 | — | —
+Common stock, par value $0.0001 per share:
+Authorized: 50,000,000 shares as of September 30, 2026 and December 31, 2025
+Issued and outstanding: 6,369,222 as of September 30, 2026 and 6,306,433 as of December 31, 2025 | 1 | 1
+Additional paid-in capital | 160,285 | 160,035
+Accumulated other comprehensive loss | (3) | (3)
+Accumulated deficit | (156,410) | (155,924)
+Total stockholders' equity | 3,873 | 4,109
+Total liabilities and stockholders' equity | $ | 8,022 | $ | 5,109
+32000 Aurora Road, Solon, OH 44139 • www.energyfocus.com • 800.327.7877
+Condensed Consolidated Statements of Operations
+(unaudited)
+(in thousands, except per share data)
+Three months ended | Nine months ended September 30,
+September 30, 2026 | June 30, 2026 | September 30, 2025 | 2026 | 2025
+Net sales | $ | 4,801 | $ | 3,749 | $ | 826 | $ | 9,499 | $ | 2,585
+Cost of sales | 3,816 | 4,004 | 679 | 8,548 | 2,097
+Gross profit (loss) | 985 | (255) | 147 | 951 | 488
+Operating expenses:
+Product development | 95 | 84 | 82 | 255 | 206
+Selling, general, and administrative | 369 | 529 | 240 | 1,184 | 949
+Total operating expenses | 464 | 613 | 322 | 1,439 | 1,155
+Income (loss) from operations | 521 | (868) | (175) | (488) | (667)
+Other expenses (income):
+Interest expense | 34 | 5 | — | 39 | —
+Interest income | (20) | (3) | — | (24) | (1)
+Gain on disposal of fixed assets | — | — | (3) | — | (3)
+Other income | (24) | — | — | (24) | —
+Other expenses | — | — | — | — | 8
+Income (loss) before income taxes | 531 | (870) | (172) | (479) | (671)
+Provision for income taxes | — | 7 | — | 7 | —
+Net income (loss) | $ | 531 | $ | (877) | $ | (172) | $ | (486) | $ | (671)
+Comprehensive income (loss) | $ | 531 | $ | (877) | $ | (172) | $ | (486) | $ | (671)
+Net income (loss) per common share - basic and diluted
+Basic | $ | 0.08 | $ | (0.14) | $ | (0.03) | $ | (0.08) | $ | (0.12)
+Diluted | $ | 0.08 | $ | (0.14) | $ | (0.03) | $ | (0.08) | $ | (0.12)
+Weighted average shares of common stock outstanding:
+Basic | 6,369 | 6,327 | 5,610 | 6,335 | 5,420
+Diluted | 6,394 | 6,327 | 5,610 | 6,335 | 5,420
+32000 Aurora Road, Solon, OH 44139 • www.energyfocus.com • 800.327.7877
+Condensed Consolidated Statements of Cash Flows
+(unaudited)
+(in thousands)
+Three months ended | Nine months ended September 30,
+September 30, 2026 | June 30, 2026 | September 30, 2025 | 2026 | 2025
+Cash flows from operating activities:
+Net income (loss) | $ | 531 | $ | (877) | $ | (172) | $ | (486) | $ | (671)
+Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities:
+Unrealized foreign exchange (gain) loss | (12) | 5 | 27 | (1) | (18)
+Loss on settlement of vendor obligations | — | — | — | — | 8
+Gain on disposal of fixed assets | — | — | (3) | — | (3)
+Depreciation | 8 | 8 | 9 | 24 | 28
+Stock-based compensation | — | — | — | — | (4)
+Provision for credit losses and sales return | 42 | 169 | (46) | 194 | 18
+Inventory provisions and write-offs | 802 | 424 | 78 | 1,299 | 136
+Provision for warranties | 186 | 1 | (1) | 158 | (31)
+Changes in operating assets and liabilities:
+Accounts receivable | 373 | (2,250) | 310 | (1,819) | 119
+Inventories | 954 | 499 | (337) | 616 | (236)
+Prepayments to vendors | 120 | (678) | (2) | (570) | (18)
+Prepaid and other assets | 78 | (63) | (51) | (70) | (33)
+Accounts payable | 28 | 19 | 90 | 51 | 27
+Accounts payable - related party | (684) | 1,891 | 19 | 2,135 | 93
+Accrued and other liabilities | (149) | 35 | 24 | (2) | 45
+Operating lease - ROU and liabilities | (2) | (2) | — | (4) | (2)
+Total adjustments | 1,744 | 58 | 117 | 2,011 | 129
+Net cash provided by (used in) operating activities | 2,275 | (819) | (55) | 1,525 | (542)
+Cash flows from investing activities:
+Acquisitions of property and equipment | (34) | — | (49) | (34) | (54)
+Proceeds from the sale of property and equipment | — | — | 13 | — | 13
+Advance for investment in joint venture | — | (380) | — | (380) | —
+Net cash used in investing activities | (34) | (380) | (36) | (414) | (41)
+(continued on next page)
+32000 Aurora Road, Solon, OH 44139 • www.energyfocus.com • 800.327.7877
+Condensed Consolidated Statements of Cash Flows - continued
+(unaudited)
+(in thousands)
+Three months ended | Nine months ended September 30,
+September 30, 2026 | June 30, 2026 | September 30, 2025 | 2026 | 2025
+Cash flows from financing activities:
+Issuance of common stock | — | 250 | 500 | 250 | 900
+Proceeds from short-term borrowings | — | 922 | — | 922 | —
+Net cash provided by financing activities | — | 1,172 | 500 | 1,172 | 900
+Effect of exchange rate changes on cash | (3) | (3) | (11) | (13) | 15
+Net increase (decrease) in cash | 2,238 | (30) | 398 | 2,270 | 332
+Cash, beginning of period | 1,096 | 1,126 | 499 | 1,064 | 565
+Cash, end of period | $ | 3,334 | $ | 1,096 | $ | 897 | $ | 3,334 | $ | 897
+Non-cash investing and financing activities:
+Acquisition of property and equipment through accounts payable | — | — | — | — | 39
+32000 Aurora Road, Solon, OH 44139 • www.energyfocus.com • 800.327.7877
+Sales by Product
+(unaudited)
+(in thousands)
+Three months ended | Nine months ended September 30,
+September 30, 2026 | June 30, 2026 | September 30, 2025 | 2026 | 2025
+Net sales:
+Commercial products | $ | 4,476 | $ | 2,254 | $ | 202 | $ | 7,048 | $ | 1,178
+MMM products | 71 | 1,491 | 621 | 2,190 | 1,382
+Setup service | 254 | 4 | 3 | 261 | 25
+Total net sales | $ | 4,801 | $ | 3,749 | $ | 826 | $ | 9,499 | $ | 2,585
+Non-GAAP Measures
+In addition to the results in this release that are presented in accordance with generally accepted accounting principles in the United States (“U.S. GAAP”), we provide certain non-GAAP measures, which present operating results on an adjusted basis. These non-GAAP measures are supplemental measures of performance that are not required by or presented in accordance with U.S. GAAP, and include:
+•adjusted EBITDA, which we define as net income (loss) before giving effect to financing charges, income taxes, non-cash depreciation, non-cash stock-based compensation, accrued incentive compensation, non-routine charges to other income or expense; and
+•adjusted gross margins, which we define as our gross profit margins excluding the impact of inventory reserve charges (excess and obsolete, in-transit and net realizable value adjustments) and inventory write-offs. Management believes this measure better reflects the underlying profitability of products sold during the period by excluding the impact of prior period inventory purchasing decisions.
+We believe that our use of these non-GAAP financial measures permits investors to assess the operating performance of our business relative to our performance based on U.S. GAAP results and relative to other companies within the industry by isolating the effects of items that may vary from period to period without correlation to core operating performance or that vary widely among similar companies, and to assess liquidity, cash flow performance of the operations, and the product margins of our business relative to our U.S. GAAP results and relative to other companies in the industry by isolating the effects of certain items that do not have a current period impact. However, our presentation of these non-GAAP measures should not be construed as an indication that our future results will be unaffected by unusual or infrequent items or that the items for which we have made adjustments are unusual or infrequent or will not recur. Further, there are limitations on the use of these non-GAAP measures to compare our results to other companies within the industry because they are not necessarily standardized or comparable to similarly titled measures used by other companies. We believe that the disclosure of these non-GAAP measures is useful to investors as they form part of the basis for how our management team and Board of Directors evaluate our operating performance.
+Adjusted EBITDA and adjusted gross margins do not represent cash generated from operating activities in accordance with U.S. GAAP, are not necessarily indicative of cash available to fund cash needs and are not intended to and should not be considered as alternatives to cash flow, net income and gross profit margins, respectively, computed in accordance with U.S. GAAP as measures of liquidity or operating performance. Reconciliations of these non-GAAP measures to the most directly comparable financial measures calculated and presented in accordance with U.S. GAAP are provided below for total adjusted EBITDA and adjusted gross margins, respectively.
+32000 Aurora Road, Solon, OH 44139 • www.energyfocus.com • 800.327.7877
+Three months ended | Nine months ended September 30,
+(in thousands) | September 30, 2026 | June 30, 2026 | September 30, 2025 | 2026 | 2025
+Net income (loss) | $ | 531 | $ | (877) | $ | (172) | $ | (486) | $ | (671)
+Provision for income taxes | — | 7 | — | 7 | —
+Interest expense | 34 | 5 | — | 39 | —
+Interest income | (20) | (3) | — | (24) | (1)
+Gain on disposal of fixed assets | — | — | (3) | — | (3)
+Foreign exchange loss (gain) | (12) | 5 | 27 | (1) | (18)
+Other income | (24) | — | — | (24) | —
+Depreciation | 8 | 8 | 9 | 24 | 28
+Stock-based compensation (1) | — | — | — | — | (4)
+Adjusted EBITDA | $ | 517 | $ | (855) | $ | (139) | $ | (465) | $ | (669)
+(1) No equity awards were granted to employees or consultants during the nine months ended September 30, 2026. Accordingly, no stock-based compensation expense was recognized during the period. A reversal of $4 thousand was recognized during the nine months ended September 30, 2025.
+Three months ended
+(in thousands) | September 30, 2026 | June 30, 2026 | September 30, 2025
+($) | (%) | ($) | (%) | ($) | (%)
+Net sales | $4,801 | $3,749 | $826
+Actual gross profit (loss) | $985 | 20.5 | % | $(255) | (6.8) | % | $147 | 17.8 | %
+Excess and obsolete, in-transit and net realizable value inventory reserve changes and direct inventory write-offs (2) | 802 | 16.7 | % | 424 | 11.3 | % | 78 | 9.4 | %
+Adjusted gross profit | $1,787 | 37.2 | % | $169 | 4.5 | % | $225 | 27.2 | %
+(2) The inventory adjustments for the second quarter of 2026 and the third quarter of 2025 reflect net changes in inventory reserves, consistent with previously reported amounts. The adjustment for the third quarter of 2026 includes $246 thousand of inventory reserve provisions and $556 thousand of direct inventory write-offs related to the disposal of obsolete inventory
+32000 Aurora Road, Solon, OH 44139 • www.energyfocus.com • 800.327.7877
