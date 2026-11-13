@@ -1,130 +1,137 @@
 {
-  "fetched_at": "2026-11-12T10:29:24+08:00",
+  "fetched_at": "2026-11-13T09:45:31+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-09",
-    "end": "2026-11-11",
+    "start": "2026-11-11",
+    "end": "2026-11-12",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 16,
-  "answered": 16,
+  "requests": 17,
+  "answered": 17,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 168 ms"
+      "detail": "HTTP 200, 60 KB in 494 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 71 ms"
+      "detail": "HTTP 200, 59 KB in 382 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 57 ms"
-    },
-    {
-      "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=300",
-      "ok": true,
-      "detail": "HTTP 200, 53 KB in 99 ms"
+      "detail": "HTTP 200, 56 KB in 343 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 163 ms"
+      "detail": "HTTP 200, 149 KB in 63 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 70 ms"
+      "detail": "HTTP 200, 156 KB in 40 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 131 ms"
+      "detail": "HTTP 200, 154 KB in 51 ms"
     },
     {
-      "name": "ENERGY FOCUS, INC/DE filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/924168/000162828026072504/index.json",
+      "name": "Aveanna Healthcare Holdings, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1832332/000119312526456864/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 134 ms"
+      "detail": "HTTP 200, 1 KB in 97 ms"
     },
     {
-      "name": "ENERGY FOCUS, INC/DE press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/924168/000162828026072504/ex991efoi3q2026earningsrel.htm",
+      "name": "Aveanna Healthcare Holdings, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1832332/000119312526456864/avah-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 269 KB in 204 ms"
+      "detail": "HTTP 200, 1,018 KB in 95 ms"
     },
     {
-      "name": "InMed Pharmaceuticals Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1728328/000119312526455640/index.json",
+      "name": "AETHLON MEDICAL INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/882291/000168316826008622/index.json",
       "ok": true,
-      "detail": "HTTP 200, 3 KB in 113 ms"
+      "detail": "HTTP 200, 1 KB in 66 ms"
     },
     {
-      "name": "InMed Pharmaceuticals Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1728328/000119312526455640/d539218dex991.htm",
+      "name": "AETHLON MEDICAL INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/882291/000168316826008622/aethlon_ex9901.htm",
       "ok": true,
-      "detail": "HTTP 200, 239 KB in 148 ms"
+      "detail": "HTTP 200, 58 KB in 98 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 195 ms"
+      "detail": "HTTP 200, 3,174 KB in 59 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 121 ms"
+      "detail": "HTTP 200, 4,447 KB in 51 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 195 ms"
+      "detail": "HTTP 200, 2,745 KB in 60 ms"
+    },
+    {
+      "name": "Aveanna Healthcare Holdings, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001832332.json",
+      "ok": true,
+      "detail": "HTTP 200, 956 KB in 166 ms"
+    },
+    {
+      "name": "AETHLON MEDICAL INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000882291.json",
+      "ok": true,
+      "detail": "HTTP 200, 1,706 KB in 61 ms"
     },
     {
       "name": "ENERGY FOCUS, INC/DE company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000924168.json",
       "ok": true,
-      "detail": "HTTP 200, 2,979 KB in 87 ms"
+      "detail": "HTTP 200, 2,979 KB in 214 ms"
     },
     {
       "name": "InMed Pharmaceuticals Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001728328.json",
       "ok": true,
-      "detail": "HTTP 200, 1,022 KB in 168 ms"
+      "detail": "HTTP 200, 1,022 KB in 81 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000882291.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000924168.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001728328.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001832332.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
-    "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1728328_000119312526455640_d539218dex991.htm",
-    "www.sec.gov_Archives_edgar_data_1728328_000119312526455640_index.json",
-    "www.sec.gov_Archives_edgar_data_924168_000162828026072504_ex991efoi3q2026earningsrel.htm",
-    "www.sec.gov_Archives_edgar_data_924168_000162828026072504_index.json"
+    "www.sec.gov_Archives_edgar_data_1832332_000119312526456864_avah-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_1832332_000119312526456864_index.json",
+    "www.sec.gov_Archives_edgar_data_882291_000168316826008622_aethlon_ex9901.htm",
+    "www.sec.gov_Archives_edgar_data_882291_000168316826008622_index.json"
   ]
 }
