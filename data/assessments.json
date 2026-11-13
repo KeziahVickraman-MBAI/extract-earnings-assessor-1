@@ -10289,5 +10289,391 @@
     "filing_found": false,
     "recheck": false,
     "assessed_at": "2026-11-13T06:37:55+08:00"
+  },
+  {
+    "accession": "0001628280-26-072504",
+    "cik": "924168",
+    "company": "ENERGY FOCUS, INC/DE",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 4,801 (USD thousands, so 4.801 million), but the 10-Q figures could not be read today: data.sec.gov was blocked (403)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 521 (USD thousands, so 0.521 million), but the 10-Q figures could not be read today: data.sec.gov was blocked (403)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 531 (USD thousands, so 0.531 million), but the 10-Q figures could not be read today: data.sec.gov was blocked (403)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 0.08, but the 10-Q figures could not be read today: data.sec.gov was blocked (403)."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers (4,801; 521; 531; 0.08). The 10-Q check is still to come: data.sec.gov was blocked again today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there. The release gives no guidance, so none was missing."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable before 8:30 AM: figures, comparisons and the refund caveat are clear. Not yet confirmed against the 10-Q, so treat them as release figures for now."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "4.801 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": "0.521 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": "0.531 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "0.08 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release's own table: net sales 4,801 against 826 a year ago, up 481.2%, and against 3,749 in Q2, up 28.1%. The fundamentals hold no filed comparison today."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release's own table (reported): gross margin 985/4,801 = 20.5% against 147/826 = 17.8%. Without the 184 thousand refund it would be 801/4,801 = 16.7%, below last year's 17.8%."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Release's own table: income from operations 521 against losses of (175) a year ago and (868) in Q2 (USD thousands). Operating margin is 10.9% on the fundamentals."
+      },
+      "M4": {
+        "verdict": "matches",
+        "reason": "Release's own tables: cash 3,334 against 1,064 at 31 December 2025; short-term borrowings 911 on the balance sheet (proceeds 922 in nine months) and Q3 operating cash flow 2,275 (USD thousands)."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Net sales up 481.2% and an operating income of 0.521 million after losses bear out the growth, while one new customer and the 184 thousand refund (about a third of operating income) justify the caution."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 4.801,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 0.521,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 0.531,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.08,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 10.851905852947302,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 11.06019579254322,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales rose 481.2% on the third quarter of 2025, driven by commercial sales from the UPS business with a new customer in Taiwan.",
+        "quote": "Net sales of $4.8 million, an increase of 481.2% compared with the third quarter of 2025, reflecting an increase of $4.3 million, or 2115.8% in commercial sales period-over-period.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Gross margin rose to 20.5% from 17.8% a year earlier, helped by a customs duty refund of about $184 thousand.",
+        "quote": "Gross profit margin was 20.5% in the third quarter of 2026, compared with 17.8% in the third quarter of 2025 and (6.8)% in the second quarter of 2026.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The company made an operating income of $0.5 million, against operating losses a year earlier and in the second quarter.",
+        "quote": "Income from operations of $0.5 million in the third quarter of 2026, compared with a loss from operations of $0.2 million in the third quarter of 2025 and a loss from operations of $0.9 million in the second quarter of 2026.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "Cash rose to $3.3 million, helped by short-term borrowings and the timing of customer and supplier payments.",
+        "quote": "Cash was $3.3 million as of September 30, 2026, compared with $1.1 million and $0.9 million as of December 31, 2025 and September 30, 2025, respectively.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The highlights report strong growth and a return to profit, but credit much of it to one new customer, a one-off refund and payment timing."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-14T06:38:10+08:00"
+  },
+  {
+    "accession": "0001193125-26-455640",
+    "cik": "1728328",
+    "company": "InMed Pharmaceuticals Inc.",
+    "period_end": "2026-06-30",
+    "period_label": "no quarterly results; pro forma merger figures to 30 June 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty, rightly: the exhibit is pro forma merger information to 30 June 2026 and reports no quarterly revenue."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty, rightly: the exhibit gives only pro forma combined figures for six months and a year, not a quarter."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty, rightly: the only net losses are pro forma, e.g. (37,291) thousand for six months to 30 June 2026, not a quarter."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty, rightly: the only per-share figures are pro forma, e.g. (0.64) for six months to 30 June 2026, not a quarter."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure is wrong: the watcher did not take the pro forma six-month or annual figures for quarterly results."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "The exhibit gives no quarterly figures and no guidance, so the four empty figures are not a fault."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "The label says plainly there are no quarterly results, so the analyst need not open it; a line on the merger with Mentari would have helped."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {},
+    "tone": null,
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [],
+    "watcher_tone": null,
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-14T06:38:10+08:00"
   }
 ]
