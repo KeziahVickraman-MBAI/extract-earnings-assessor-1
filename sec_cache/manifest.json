@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16T08:56:25+08:00",
+  "fetched_at": "2026-11-16T09:21:27+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,132 +9,126 @@
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 19,
-  "answered": 19,
+  "requests": 18,
+  "answered": 18,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 177 ms"
+      "detail": "HTTP 200, 60 KB in 93 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 96 ms"
+      "detail": "HTTP 200, 60 KB in 39 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 107 ms"
+      "detail": "HTTP 200, 60 KB in 44 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 100 ms"
+      "detail": "HTTP 200, 55 KB in 38 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 73 ms"
+      "detail": "HTTP 200, 148 KB in 51 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 50 ms"
+      "detail": "HTTP 200, 156 KB in 40 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 54 ms"
+      "detail": "HTTP 200, 154 KB in 43 ms"
     },
     {
-      "name": "INNOVATE Corp. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1006837/000100683726000128/index.json",
+      "name": "RUM Group Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1830081/000121390026118457/index.json",
       "ok": true,
-      "detail": "HTTP 200, 3 KB in 50 ms"
+      "detail": "HTTP 200, 1 KB in 64 ms"
     },
     {
-      "name": "INNOVATE Corp. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1006837/000100683726000128/exhibit991-q32026pressrele.htm",
+      "name": "RUM Group Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1830081/000121390026118457/ea031161801ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 499 KB in 146 ms"
+      "detail": "HTTP 200, 145 KB in 191 ms"
     },
     {
-      "name": "BioCardia, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/925741/000143774926036574/index.json",
+      "name": "ARROWHEAD PHARMACEUTICALS, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/879407/000087940726000077/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 130 ms"
+      "detail": "HTTP 200, 1 KB in 51 ms"
     },
     {
-      "name": "BioCardia, Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/925741/000143774926036574/0001437749-26-036574-index.htm",
+      "name": "ARROWHEAD PHARMACEUTICALS, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/879407/000087940726000077/arwr-202611128kex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 101 ms"
-    },
-    {
-      "name": "BioCardia, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/925741/000143774926036574/ex_1044180.htm",
-      "ok": true,
-      "detail": "HTTP 200, 89 KB in 134 ms"
+      "detail": "HTTP 200, 95 KB in 58 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 73 ms"
+      "detail": "HTTP 200, 3,174 KB in 63 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 66 ms"
+      "detail": "HTTP 200, 4,447 KB in 60 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 59 ms"
+      "detail": "HTTP 200, 2,745 KB in 61 ms"
     },
     {
-      "name": "INNOVATE Corp. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001006837.json",
+      "name": "RUM Group Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001830081.json",
       "ok": true,
-      "detail": "HTTP 200, 5,172 KB in 829 ms"
+      "detail": "HTTP 200, 1,007 KB in 208 ms"
     },
     {
-      "name": "BioCardia, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000925741.json",
+      "name": "ARROWHEAD PHARMACEUTICALS, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000879407.json",
       "ok": true,
-      "detail": "HTTP 200, 1,640 KB in 456 ms"
+      "detail": "HTTP 200, 2,907 KB in 114 ms"
     },
     {
       "name": "ENERGY FOCUS, INC/DE company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000924168.json",
       "ok": true,
-      "detail": "HTTP 200, 2,979 KB in 118 ms"
+      "detail": "HTTP 200, 2,979 KB in 147 ms"
     },
     {
       "name": "InMed Pharmaceuticals Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001728328.json",
       "ok": true,
-      "detail": "HTTP 200, 1,022 KB in 158 ms"
+      "detail": "HTTP 200, 1,022 KB in 217 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000879407.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000924168.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000925741.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001006837.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001728328.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001830081.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -142,10 +136,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1006837_000100683726000128_exhibit991-q32026pressrele.htm",
-    "www.sec.gov_Archives_edgar_data_1006837_000100683726000128_index.json",
-    "www.sec.gov_Archives_edgar_data_925741_000143774926036574_0001437749-26-036574-index.htm",
-    "www.sec.gov_Archives_edgar_data_925741_000143774926036574_ex_1044180.htm",
-    "www.sec.gov_Archives_edgar_data_925741_000143774926036574_index.json"
+    "www.sec.gov_Archives_edgar_data_1830081_000121390026118457_ea031161801ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1830081_000121390026118457_index.json",
+    "www.sec.gov_Archives_edgar_data_879407_000087940726000077_arwr-202611128kex991.htm",
+    "www.sec.gov_Archives_edgar_data_879407_000087940726000077_index.json"
   ]
 }
