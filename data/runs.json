@@ -3920,5 +3920,103 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-18T06:38:14+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-18-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 4,
+      "total": 4,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 4,
+      "checked": 4,
+      "rechecks": 2,
+      "confirmed": 8,
+      "mismatch": 0,
+      "cannot_check": 8
+    },
+    "companies": [
+      {
+        "cik": "924168",
+        "company": "ENERGY FOCUS, INC/DE",
+        "accession": "0001628280-26-072504",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 4,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1728328",
+        "company": "InMed Pharmaceuticals Inc.",
+        "accession": "0001193125-26-455640",
+        "period_label": "no quarterly results; pro forma merger figures to 30 June 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "318833",
+        "company": "TEAM INC",
+        "accession": "0000318833-26-000060",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1498382",
+        "company": "TuHURA Biosciences, Inc./NV",
+        "accession": "0001193125-26-459311",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 4 extractions: 8 figures confirmed, 0 mismatches, 8 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-18T06:07:44+08:00",
+      "watch_brief": "briefs/2026-11-18-watch.md",
+      "brief_says": 479,
+      "saved_for_run": 479,
+      "match": true
+    },
+    "offline": false
   }
 ]
