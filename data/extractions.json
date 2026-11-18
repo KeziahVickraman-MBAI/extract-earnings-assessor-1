@@ -760,5 +760,120 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1498382/000119312526459311/hura-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1498382/000119312526459311/0001193125-26-459311-index.htm",
     "saved_at": "2026-11-18T06:07:44+08:00"
+  },
+  {
+    "cik": "911147",
+    "company": "CENTURY CASINOS INC /CO/",
+    "accession": "0000911147-26-000057",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 158.4,
+        "unit": "USD millions",
+        "quote": "Approximately $158.4 million in net operating revenue (compared to $153.7 million in the third quarter 2025); and"
+      },
+      "operating_income": {
+        "value": 20.7,
+        "unit": "USD millions",
+        "quote": "Approximately $20.7 million in earnings from operations (compared to $17.1 million in the third quarter 2025)."
+      },
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The co-CEOs call the third quarter another quarter of strong operational performance, helped by investment in the properties and operational improvements.",
+        "quote": "The third quarter represented another quarter of strong operational performance for our well-diversified portfolio, with the Company benefiting from the investments we have made in our properties and operational improvements."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The co-CEOs say the sale of the Canadian racing centre operations will cut annual cash rent and free cash to reinvest and reduce debt.",
+        "quote": "we announced the sale of our Racing and Entertainment Centre operations in Canada, which will reduce our annual cash rent expense under the Master Lease and provide further liquidity to reinvest into our business with excess cash used to reduce our indebtedness"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The co-CEOs describe strong operational performance and added liquidity, though the release itself announces a restatement and an expected material weakness."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/911147-0000911147-26-000057.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000057/cnty-20261117xex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000057/0000911147-26-000057-index.htm",
+    "saved_at": "2026-11-19T06:07:37+08:00"
+  },
+  {
+    "cik": "1396536",
+    "company": "DUOS TECHNOLOGIES GROUP, INC.",
+    "accession": "0001079973-26-001549",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 10.499782,
+        "unit": "USD millions",
+        "quote": "Total Revenues | 10,499,782"
+      },
+      "operating_income": {
+        "value": -1.857057,
+        "unit": "USD millions",
+        "quote": "INCOME (LOSS) FROM OPERATIONS | (1,857,057"
+      },
+      "net_income": {
+        "value": 0.864264,
+        "unit": "USD millions",
+        "quote": "NET INCOME (LOSS) | $ | 864,264"
+      },
+      "diluted_eps": {
+        "value": 0.02,
+        "unit": "USD per share",
+        "quote": "Diluted Net Income (Loss) Per Share | $ | 0.02"
+      }
+    },
+    "guidance": {
+      "text": "The company continues to expect total revenue for 2026 to exceed $50 million.",
+      "quote": "the Company continues to expect that its total revenue for 2026 will exceed $50 million."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue for the third quarter rose 103% to $10.50 million from $5.18 million a year earlier.",
+        "quote": "Revenues for Q3 2026 increased 103% to $10.50 million compared to $5.18 million for the third quarter of 2025 (“Q3 2025”)."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Gross margin improved to 41.6% from 32.9% a year earlier.",
+        "quote": "As a percentage of revenue, gross margin improved to 41.6% from 32.9% in Q3 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Operating expenses rose 140%, mainly from stock-based compensation, sales and marketing, and professional fees.",
+        "quote": "Operating expenses for Q3 2026 increased 140% to $6.22 million compared to $2.59 million for Q3 2025."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says the company remains on track for revenue above $50 million and positive adjusted EBITDA for the year.",
+        "quote": "As a result of our progress to date, we remain on track to meet our goals for the year, including revenue north of $50 million and positive adjusted EBITDA."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes a completed repositioning, a strong backlog and a year on track for its revenue and adjusted EBITDA goals."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1396536-0001079973-26-001549.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1396536/000107997326001549/ex99x1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1396536/000107997326001549/0001079973-26-001549-index.htm",
+    "saved_at": "2026-11-19T06:07:37+08:00"
   }
 ]
