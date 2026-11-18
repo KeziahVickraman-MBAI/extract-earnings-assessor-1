@@ -4090,5 +4090,69 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-19T06:37:44+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-19-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 2,
+      "total": 2,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 2,
+      "checked": 2,
+      "rechecks": 0,
+      "confirmed": 4,
+      "mismatch": 0,
+      "cannot_check": 4
+    },
+    "companies": [
+      {
+        "cik": "911147",
+        "company": "CENTURY CASINOS INC /CO/",
+        "accession": "0000911147-26-000057",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1396536",
+        "company": "DUOS TECHNOLOGIES GROUP, INC.",
+        "accession": "0001079973-26-001549",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 2 extractions: 4 figures confirmed, 0 mismatches, 4 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-19T06:07:37+08:00",
+      "watch_brief": "briefs/2026-11-19-watch.md",
+      "brief_says": 47,
+      "saved_for_run": 47,
+      "match": true
+    },
+    "offline": false
   }
 ]
