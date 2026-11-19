@@ -875,5 +875,136 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1396536/000107997326001549/ex99x1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1396536/000107997326001549/0001079973-26-001549-index.htm",
     "saved_at": "2026-11-19T06:07:37+08:00"
+  },
+  {
+    "cik": "109198",
+    "company": "TJX COMPANIES INC /DE/",
+    "accession": "0000109198-26-000058",
+    "release_date": "2026-11-18",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 15952,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 15,952"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 1543,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 1,543"
+      },
+      "diluted_eps": {
+        "value": 1.39,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.39"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of Fiscal 2027, TJX plans consolidated comparable sales to rise by 2% to 3%.",
+      "quote": "For the fourth quarter of Fiscal 2027, the Company is planning consolidated comparable sales to be up 2% to 3%."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says sales, profitability and earnings per share all exceeded the company's expectations in the third quarter.",
+        "quote": "Overall sales, profitability, and earnings per share all exceeded our expectations."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Consolidated comparable sales grew 4%, led by HomeGoods, TJX Canada and TJX International, with improved sales at Marmaxx.",
+        "quote": "Consolidated comparable sales grew 4%, driven by continued strength at HomeGoods, TJX Canada, and TJX International, and we saw improved sales at Marmaxx."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says warm weather has held back some demand, but expects sales momentum to accelerate through the holiday season.",
+        "quote": "while we believe the unseasonably warm weather in the U.S. and Canada has been holding back consumer demand in some categories, we are expecting sales momentum to accelerate throughout the holiday season."
+      },
+      {
+        "id": "M4",
+        "topic": "margins",
+        "claim": "Adjusted gross profit margin fell 0.5 percentage points, driven by higher freight and fuel costs.",
+        "quote": "adjusted gross profit margin was 32.1%, down 0.5 percentage points versus the prior year. This was driven by higher freight and fuel costs."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO is \"very pleased\", says results beat expectations and is \"confident\" about the holiday season, while noting warm weather held back some demand."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/109198-0000109198-26-000058.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/tjxq3fy27earningspressrele.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058-index.htm",
+    "saved_at": "2026-11-20T06:08:01+08:00"
+  },
+  {
+    "cik": "1398805",
+    "company": "Beam Global",
+    "accession": "0001437749-26-037585",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 6.66,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 6,660"
+      },
+      "operating_income": {
+        "value": -4.499,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (4,499"
+      },
+      "net_income": {
+        "value": -4.47,
+        "unit": "USD millions",
+        "quote": "Net Loss | $ | (4,470"
+      },
+      "diluted_eps": {
+        "value": -0.2,
+        "unit": "USD per share",
+        "quote": "Net Loss per share - basic/diluted | $ | (0.20"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenues grew 15% year on year.",
+        "quote": "Revenues grew 15% year-over-year and our gross margin improved to approximately 32% excluding non-cash items."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The company believes margins will keep improving as revenues grow and cost reductions, including the move to Yuma, take effect.",
+        "quote": "The Company believes its margins will continue to improve as revenues grow and fixed overhead absorption increases, and as ongoing cost reduction initiatives, including the relocation of its manufacturing operations to Yuma, Arizona, continue to take effect."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO says the move of manufacturing to Yuma, Arizona is expected to save about $3 million in rent over the lease term.",
+        "quote": "Most notably in the 3rd quarter we completed the move of our manufacturing operations to Yuma, Arizona, which we expect to save approximately $3 million in rent over the lease term."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO believes the company is well positioned to convert its growing pipeline into revenue in coming quarters.",
+        "quote": "I believe we are well positioned to convert our growing pipeline into revenue in the coming quarters"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses revenue growth, better margins and a record European quarter, and mentions the Middle East only as challenging."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1398805-0001437749-26-037585.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1398805/000143774926037585/ex_1048260.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1398805/000143774926037585/0001437749-26-037585-index.htm",
+    "saved_at": "2026-11-20T06:08:01+08:00"
   }
 ]

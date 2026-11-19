@@ -1,0 +1,161 @@
+Company: Beam Global (CIK 1398805)
+Accession: 0001437749-26-037585
+Results released: 2026-11-18
+Press release: https://www.sec.gov/Archives/edgar/data/1398805/000143774926037585/ex_1048260.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1398805/000143774926037585/0001437749-26-037585-index.htm
+Saved: 2026-11-20T06:08:01+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_1048260.htm EXHIBIT 99.1
+Exhibit 99.1
+Beam Global Reports Third Quarter 2026 Operating Results
+SAN DIEGO, CA – November 18, 2026 – Beam Global, (Nasdaq: BEEM), (the “Company”), a leading provider of innovative and sustainable infrastructure solutions for energy storage and security, electrification of transportation, and smart city infrastructure, today announced its third quarter operating results for the period ended September 30, 2026.
+Q3 2026 and Recent Company Highlights:
+Financial:
+● | Revenues increase 15% YoY to $6.7M
+● | Gross margins increase to 21% GAAP, 32% adjusted net of non-cash items
+● | Gross profit of $1.4M GAAP, $2.1M cash adjusted net of non-cash
+● | 67% increase in cash over December 31, 2025
+● | $6.9M backlog as of September 30, 2026, up 28% from $5.4M at June 30, 2026
+● | Relocated manufacturing from San Diego, CA to Yuma, AZ resulting in almost $3M in savings across lease term
+Operational:
+● | Record quarter for Beam Europe smart city infrastructure sales: approximately $4 million in Q3 orders across Serbia, Montenegro, Croatia, Romania, Bosnia and Herzegovina and Greece, including smart city infrastructure for Lidl in Bosnia and Herzegovina.
+● | Received more than $500,000 in specialized battery orders from recurring customers in the drone and autonomous robotics markets within a single week, demonstrating continued commercial demand for Beam's advanced and bespoke battery technology.
+● | Continued leveraging Federal GSA procurement channels through repeat government customer orders, including the City of Dallas (10 additional EV ARC™ systems), Dry Creek Rancheria Band of Pomo Indians (five EV ARC™ systems and an ARC Mobility™ Trailer), and the City of Long Beach (six additional EV ARC™ systems).
+● | Expanded recurring-revenue EV ARC™ deployments through new commercial and community mobility initiatives, including a sponsorship-funded deployment at Aqua Park Raj in Serbia and four Greater Boston locations supporting the CommunityEV carsharing pilot.
+● | Relocated California manufacturing operations to a new 55,000-square-foot facility in Yuma, Arizona, expected to generate approximately $3 million in rent savings over the five-year lease term, alongside additional anticipated operating cost reductions.
+● | Beam Middle East signed an MOU with Masdar City Free Zone in Abu Dhabi to explore off-grid EV charging, solar-integrated e-bike solutions and other sustainable energy infrastructure opportunities.
+● | Advanced opportunities in Ukraine to support energy security and infrastructure reconstruction, positioning Beam's rapidly deployable off-grid power generation, energy storage, EV charging and humanitarian heating solutions for reconstruction projects.
+● | Introduced brand-new patent pending BeamHeat™ product in Ukraine - a Beam battery powered device providing heating, cooking, lighting and recharging of portable devices, to people in environments where grid interruptions deny them access to basic comforts.
+● | Presented advanced battery technology for AI data centers, with Beam's high-pulse-power battery design at IECON 2026 in Doha, Qatar.
+● | Strengthened Beam's intellectual property portfolio with a European patent for Smart Phase Change Composite (PCC™) passive battery thermal management technology, supporting applications across e-mobility, energy storage, robotics and defense.
+● | Expanded international engagement and industry presence through participation in major industry events and conferences, including The Battery Show North America, IECON 2026, SESA Summit Puerto Rico, PWX, and European e-mobility and smart infrastructure events in Serbia and Croatia.
+● | Received the GovTech Breakthrough Award for "Connected Infrastructure Solution of the Year" for the EV ARC™, recognizing Beam's contribution to connected and resilient infrastructure.
+● | Developed and launched a completely redesigned corporate website, strengthening Beam Global's digital presence, improving the presentation of its product portfolio and supporting engagement with investors.
+“Our third quarter results reflect the strength of the diversified business we have built creating, manufacturing, and selling products into the most relevant and current opportunities in the world today – energy generation and storage, innovation in mobility and autonomy and intelligence in built infrastructure,” said Desmond Wheatley, CEO of Beam Global. “Revenues grew 15% year-over-year and our gross margin improved to approximately 32% excluding non-cash items. Commercial customers accounted for 92% of our revenues in the quarter, and more than half of our sales came from outside the United States. Beam Europe delivered a record quarter for smart city infrastructure orders, and our backlog grew 28% from the end of the second quarter to $6.9 million. We continue to see increasing demand for our bespoke battery technology from defense, drone, mobility and autonomous robotics customers, and our battery team is developing solutions that we believe will be vital to the power requirements of AI data centers. We strengthened our IP portfolio with new patents in the U.S. and Europe. Though the situation in the Middle East remains challenging, we are advancing new prospects there and continue to believe that potentially very large opportunities can develop for us in the region. Our European facilities in Serbia are well positioned to play an outsized role in Ukraine’s reconstruction with our energy, communications and transportation products. I have received unanimous interest in our brand-new BeamHeat product during my current visit to Ukraine where it can provide essential comforts like heat, light and warm food to the population during a long winter of grid interruptions. We have matched our growth in revenues and gross margins with successful efforts to reduce costs while improving our operational capabilities in the U.S. Most notably in the 3rd quarter we completed the move of our manufacturing operations to Yuma, Arizona, which we expect to save approximately $3 million in rent over the lease term. I applaud the Beam team for their execution, and I believe we are well positioned to convert our growing pipeline into revenue in the coming quarters and to take advantage of all the new opportunities which we have developed across multiple segments internationally and in the U.S.”
+Q3 2026 Financial Summary
+Revenues
+Revenues for the third quarter of 2026 were $6.7 million, an increase of $0.9 million, or 15%, over $5.8 million in the third quarter of 2025. Non-government commercial customers represented 92% of revenues and state and local government customers 6%, compared to 82% and 18%, respectively, a year earlier. Sales outside the United States were 56% of revenues in the quarter and 51% for the first nine months of 2026, up from 43% and 39%, respectively, a year earlier, led by Serbia, where revenues nearly doubled to $2.1 million, and Romania, where revenues increased to $0.9 million from $0.3 million. For the nine months ended September 30, 2026, revenues were $18.4 million compared to $19.2 million a year earlier, a decrease the Company believes is primarily a function of order timing rather than a change in underlying demand. Backlog was $6.9 million as of September 30, 2026, an increase of $1.5 million, or 28%, from $5.4 million as of June 30, 2026.
+Gross Profit
+The Company reported gross profit of $1.4 million, a gross margin of 21.3%, for the third quarter of 2026, compared to a gross loss of $28 thousand, or (0.5%), in the third quarter of 2025, and a gross margin of 17.8% in the second quarter of 2026. Non-cash charges in cost of revenues, consisting of depreciation and amortization of intangible assets from the All-Cell acquisition, were $0.7 million in the third quarter of 2026 and $0.8 million a year earlier. Excluding these items, adjusted Non-GAAP gross profit was $2.1 million, an adjusted Non-GAAP gross margin of 31.9% in the quarter, compared to 12.8% a year earlier. For the nine months ended September 30, 2026, gross margin was 13.8%, compared to 9.9% a year earlier, and adjusted Non-GAAP gross margin was 25.4%, compared to 21.5% a year earlier.
+The Company believes its margins will continue to improve as revenues grow and fixed overhead absorption increases, and as ongoing cost reduction initiatives, including the relocation of its manufacturing operations to Yuma, Arizona, continue to take effect.
+Operating Expenses
+Operating expenses were $5.9 million for the third quarter of 2026, compared to $4.8 million a year earlier. The $1.1 million increase was primarily driven by a $0.4 million increase in non-cash stock-based compensation, a $0.4 million increase in legal expenses, and $0.3 million of costs associated with the relocation of the Company’s facilities. For the nine months ended September 30, 2026, operating expenses were $16.7 million compared to $26.8 million a year earlier, which included a $10.8 million non-cash goodwill impairment charge. Nine-month 2026 expenses included a $1.6 million non-cash provision for credit losses, primarily relating to a single customer balance reserved in accordance with Company policy. Excluding non-cash items, including the goodwill impairment and provisions for credit losses, Non-GAAP operating expenses for the first nine months of 2026 were $12.7 million, an increase of $0.2 million, or 1%, compared to $12.5 million in the prior year period.
+Net Loss
+The Company reported a net loss of $4.5 million, or $(0.20) per share, for the third quarter of 2026, compared to $4.9 million, or $(0.28) per share, a year earlier. The quarter’s net loss includes $2.0 million in non-cash charges, consisting primarily of $1.1 million of stock-based compensation and $0.8 million of depreciation and amortization. Excluding these items, Non-GAAP net loss was $2.5 million, or $(0.11) per share, compared to $2.8 million, or $(0.16) per share, a year earlier. For the nine months ended September 30, 2026, the Company reported a net loss of $14.4 million, or $(0.66) per share, compared to $24.7 million, or $(1.54) per share, a year earlier, which included the $10.8 million goodwill impairment charge. The nine months ended September 30, 2026 net loss includes $6.2 million of non-cash items. Excluding these items, Non-GAAP net loss was $8.2 million in both periods, while Non-GAAP net loss per share improved to $(0.38) from $(0.51) a year earlier.
+Management believes the year-over-year revenue growth, the improvement in both GAAP and Non-GAAP gross margins, and the growth in backlog reflect the Company’s expanded opportunities created through geographic and product portfolio expansion, the increasing contribution of its European operations, and continued cost reduction initiatives. Given its disciplined cost structure and the largely fixed nature of its non-cash charges, the Company believes it has meaningful operating leverage as revenue increases.
+Non-GAAP Financial Measures
+To supplement our condensed consolidated financial statements prepared in accordance with GAAP, Beam Global presents certain Non-GAAP measures in this press release, including Non-GAAP Gross Profit, Non-GAAP Gross Margin, Non-GAAP Total Operating Expenses, Non-GAAP Net Loss and Non-GAAP Net Loss per share. These measures exclude non-cash items including provisions for credit losses, stock-based compensation, depreciation and amortization, warrant amortization, changes in the fair value of contingent consideration, and impairment of goodwill. We use Non-GAAP measures in conjunction with GAAP measures as part of our overall assessment of our performance to evaluate the effectiveness of our business strategies and to communicate with our board of directors concerning our financial performance. We believe Non-GAAP measures are also helpful to investors, analysts and other interested parties because they can assist in providing a more consistent and comparable overview of our operations across our historical financial periods. These Non-GAAP measures have limitations as analytical tools. Therefore, you should not consider them in isolation or as a substitute for analysis of our results as reported under GAAP. Because of these limitations, you should consider these Non-GAAP measures alongside other financial performance measures, including Gross Profit, Operating Expenses, Net Loss and other GAAP measures. In evaluating these Non-GAAP measures you should be aware that in the future we may incur expenses that are the same as, or similar to, some of the adjustments reflected in this press release. Our presentation of these Non-GAAP measures should not be construed to imply that our future results will be unaffected by the types of items excluded from the calculations of these Non-GAAP measures. These Non-GAAP measures are not presented in accordance with GAAP and the use of these terms varies from others in our industry. Reconciliations of these Non-GAAP measures to the most directly comparable GAAP measures have been provided in the financial statement tables included within this press release, and investors are encouraged to review these reconciliations.
+Conference Call November 18, 2026 at 4:30 p.m. ET
+Beam Global will host a conference call on Wednesday, November 18, 2026 at 4:30 p.m. ET to review results and provide a corporate update, followed by a Q&A session.
+Registration: https://dpregister.com/sreg/10213380/1053c79b480
+Toll-Free Dial-In Number: 1-844-739-3880
+International Dial-In Number: 1-412-317-5716
+A webcast archive will be available on our website (www.BeamForAll.com) following the call.
+About Beam Global
+Beam Global is a sustainable technology innovator which develops and manufactures infrastructure products and technologies. We operate at the nexus of innovative and reliable energy, transportation and smart city solutions with a focus on sustainable energy infrastructure, rapidly deployed and scalable EV charging solutions, safe energy storage, energy security and intelligent infrastructure. With operations in the U.S., Europe and the Middle East, Beam Global develops, patents, designs, engineers and manufactures unique and advanced innovative technology solutions that power transportation, provide secure sources of electricity, enable smart city services, save time and money, and protect the environment. Beam Global is headquartered in San Diego, CA, with facilities in Yuma, AZ; Broadview, IL; Belgrade and Kraljevo, Serbia; and Abu Dhabi, UAE. Beam Global is listed on Nasdaq under the symbol BEEM. For more information visit BeamForAll.com, LinkedIn, YouTube, Instagram and X.
+Forward-Looking Statements
+This Beam Global Press Release may contain forward-looking statements. All statements in this Press Release other than statements of historical facts are forward-looking statements. Forward-looking statements are generally accompanied by terms or phrases such as “estimate,” “project,” “predict,” “believe,” “expect,” “anticipate,” “target,” “plan,” “intend,” “seek,” “goal,” “will,” “should,” “may,” or other words and similar expressions that convey the uncertainty of future events or results. These statements relate to future events or future results of operations. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, which may cause Beam Global’s actual results to be materially different from these forward-looking statements. Except to the extent required by law, Beam Global expressly disclaims any obligation to update any forward-looking statements.
+# # #
+Investor Relations
+Luke Higgins
++1 858-261-7646
+IR@BeamForAll.com
+Media Contact
+Lisa Potok
++1 858-327-9123
+Press@BeamForAll.com
+Beam Global
+Condensed Consolidated Balance Sheets
+(In thousands, except share and per share data)
+September 30, | December 31,
+2026 | 2025
+(Unaudited)
+Assets
+Current assets
+Cash | $ | 1,614 | $ | 969
+Accounts receivable, net of allowance for credit losses of $2,687 and $939 | 6,490 | 8,236
+Prepaid expenses and other current assets | 1,737 | 2,070
+Inventory, net | 6,564 | 9,766
+Total current assets | 16,405 | 21,041
+Property and equipment, net | 11,686 | 13,093
+Operating lease right of use assets | 1,771 | 1,358
+Intangible assets, net | 6,401 | 7,127
+Deposits | 111 | 113
+Total assets | $ | 36,374 | $ | 42,732
+Liabilities and Stockholders' Equity
+Current liabilities
+Accounts payable | $ | 5,383 | $ | 5,925
+Accrued expenses | 4,400 | 2,885
+Sales tax payable | 1,169 | 843
+Deferred revenue, current | 1,765 | 1,800
+Note payable, current | 72 | 68
+Contingent consideration, current | - | 104
+Operating lease liabilities, current | 545 | 484
+Total current liabilities | 13,334 | 12,109
+Deferred revenue, noncurrent | 517 | 690
+Note payable, noncurrent | 76 | 131
+Other liabilities, noncurrent | 2,272 | 2,939
+Deferred tax liabilities, noncurrent | 1,158 | 1,203
+Operating lease liabilities, noncurrent | 1,315 | 815
+Total liabilities | 18,672 | 17,887
+Stockholders' equity
+Preferred stock, $0.001 par value, 10,000,000 authorized, none outstanding as of September 30, 2026 and December 31, 2025. | $ | - | $ | -
+Common stock, $0.001 par value, 350,000,000 shares authorized, 23,338,261 and 19,124,163 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively. | 23 | 19
+Additional paid-in-capital | 164,372 | 156,446
+Accumulated deficit | (146,051 | ) | (131,646 | )
+Accumulated Other Comprehensive Income (AOCI) | (642 | ) | 26
+Total stockholders' equity | 17,702 | 24,845
+Total liabilities and stockholders' equity | $ | 36,374 | $ | 42,732
+Beam Global
+Condensed Consolidated Statements of Operations and Comprehensive Loss
+(Unaudited, In thousands, except per share data)
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+Revenues | $ | 6,660 | $ | 5,788 | $ | 18,350 | $ | 19,187
+Cost of revenues | 5,240 | 5,816 | 15,817 | 17,280
+Gross profit (loss) | 1,420 | (28 | ) | 2,533 | 1,907
+Gross margin % | 21.3 | % | -0.5 | % | 13.8 | % | 9.9 | %
+Operating expenses | 5,919 | 4,844 | 16,738 | 16,010
+Impairment of goodwill | - | - | - | 10,780
+Loss from operations | (4,499 | ) | (4,872 | ) | (14,205 | ) | (24,883 | )
+Other income (expense)
+Interest income | - | 14 | 6 | 51
+Other income (expense) | 33 | (5 | ) | (195 | ) | 181
+Interest expense | (4 | ) | (7 | ) | (11 | ) | (20 | )
+Total Other income (expense) | 29 | 2 | (200 | ) | 212
+Net Loss | $ | (4,470 | ) | $ | (4,870 | ) | $ | (14,405 | ) | $ | (24,671 | )
+Net foreign currency translation (expense) benefit | (109 | ) | (109 | ) | (668 | ) | 985
+Total Comprehensive Loss | $ | (4,579 | ) | $ | (4,979 | ) | $ | (15,073 | ) | $ | (23,686 | )
+Net Loss per share - basic/diluted | $ | (0.20 | ) | $ | (0.28 | ) | $ | (0.66 | ) | $ | (1.54 | )
+Weighted average shares outstanding - basic/diluted | 22,755 | 17,692 | 21,714 | 16,063
+Beam Global
+Reconciliation of Net Loss before Tax to Non-GAAP Net Loss before Tax
+(Unaudited, In thousands, except per share data)
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+GAAP Total Revenue | $ | 6,660 | $ | 5,788 | $ | 18,350 | $ | 19,187
+GAAP Total COGS | 5,240 | 5,816 | 15,817 | 17,280
+Adjusted to exclude the following:
+Depreciation and Amortization | 707 | 768 | 2,131 | 2,225
+Non-GAAP Total COGS | $ | 4,533 | $ | 5,048 | $ | 13,686 | $ | 15,055
+Non-GAAP Gross Profit | $ | 2,127 | $ | 740 | $ | 4,664 | $ | 4,132
+Non-GAAP Gross Margin % | 31.9 | % | 12.8 | % | 25.4 | % | 21.5 | %
+GAAP Total Operating Expenses | $ | 5,919 | $ | 4,844 | $ | 16,738 | $ | 26,790
+Adjusted to exclude the following:
+Depreciation and Amortization | $ | 117 | $ | 116 | $ | 352 | $ | 421
+Non-cash Compensation | 1,141 | 759 | 1,717 | 2,785
+Allowance for Credit Losses | (87 | ) | 378 | 1,753 | 93
+Warrant Amortization | 80 | 80 | 241 | 241
+Change in FV of Contingent Consideration | - | (50 | ) | - | (50 | )
+Impairment of Goodwill | - | - | - | 10,780
+Non-GAAP Total Adjustments | $ | 1,251 | $ | 1,283 | $ | 4,063 | $ | 14,270
+Non-GAAP Total Operating Expenses | $ | 4,668 | $ | 3,561 | $ | 12,675 | $ | 12,520
+GAAP Other Income (Expense) | $ | 29 | $ | 2 | $ | (200 | ) | $ | 212
+GAAP Net Loss before Tax | $ | (4,470 | ) | $ | (4,870 | ) | $ | (14,405 | ) | $ | (24,671 | )
+Non-GAAP Total Adjustments | 1,958 | 2,051 | 6,194 | 16,495
+Non-GAAP Net Loss before Tax | $ | (2,512 | ) | $ | (2,819 | ) | $ | (8,211 | ) | $ | (8,176 | )
+Non-GAAP Net Loss before Tax per share - basic/diluted | $ | (0.11 | ) | $ | (0.16 | ) | $ | (0.38 | ) | $ | (0.51 | )
+Weighted average shares outstanding - basic/diluted | 22,755 | 17,692 | 21,714 | 16,063
