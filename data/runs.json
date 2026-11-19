@@ -4226,5 +4226,86 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-20T06:37:43+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-20-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 3,
+      "total": 3,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 3,
+      "checked": 3,
+      "rechecks": 1,
+      "confirmed": 3,
+      "mismatch": 0,
+      "cannot_check": 9
+    },
+    "companies": [
+      {
+        "cik": "911147",
+        "company": "CENTURY CASINOS INC /CO/",
+        "accession": "0000911147-26-000057",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "109198",
+        "company": "TJX COMPANIES INC /DE/",
+        "accession": "0000109198-26-000058",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1398805",
+        "company": "Beam Global",
+        "accession": "0001437749-26-037585",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 3 extractions: 3 figures confirmed, 0 mismatches, 9 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-20T06:08:01+08:00",
+      "watch_brief": "briefs/2026-11-20-watch.md",
+      "brief_says": 24,
+      "saved_for_run": 24,
+      "match": true
+    },
+    "offline": false
   }
 ]
