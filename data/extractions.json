@@ -1006,5 +1006,94 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1398805/000143774926037585/ex_1048260.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1398805/000143774926037585/0001437749-26-037585-index.htm",
     "saved_at": "2026-11-20T06:08:01+08:00"
+  },
+  {
+    "cik": "14707",
+    "company": "CALERES INC",
+    "accession": "0001104659-26-130237",
+    "release_date": "2026-11-19",
+    "period_end": "2026-10-31",
+    "period_label": "third quarter, preliminary (quarter ended about 31 October 2026)",
+    "figures": {
+      "revenue": {
+        "value": 792.2,
+        "unit": "USD millions",
+        "quote": "Caleres expects to report third quarter sales of $792.2 million"
+      },
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "Caleres still expects full-year adjusted earnings per diluted share of $1.50 to $1.65.",
+      "quote": "Based on current trends, the company still expects to achieve its most recent annual adjusted earnings per diluted share guidance of $1.50 to $1.65."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Caleres expects third-quarter adjusted EPS two cents below the low end of its earlier guidance range of $0.62 to $0.70.",
+        "quote": "adjusted earnings per diluted share two cents below the low end of its previously issued guidance range of $0.62 to $0.70"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Famous Footwear sales fell 3.3%, with comparable store sales down 2.6%, while Brand Portfolio sales rose 3.0%.",
+        "quote": "Famous Footwear sales declined 3.3% with comparable store sales down 2.6%, and Brand Portfolio sales increased 3.0%."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO thanks the retiring Famous Footwear president and calls his successor a results-driven leader.",
+        "quote": "David is a results-driven leader who brings an extensive retail background and a strong track record of success at Caleres to the role at Famous Footwear."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The company expects quarterly adjusted EPS below its guidance range but keeps its annual guidance; the CEO's words are about the leadership change."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/14707-0001104659-26-130237.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/14707/000110465926130237/cal-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/14707/000110465926130237/0001104659-26-130237-index.htm",
+    "saved_at": "2026-11-21T06:08:05+08:00"
+  },
+  {
+    "cik": "319654",
+    "company": "PERMIAN BASIN ROYALTY TRUST",
+    "accession": "0001193125-26-468019",
+    "release_date": "2026-11-19",
+    "period_end": "2026-10-31",
+    "period_label": "no quarterly results; November 2026 monthly distribution",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The Trustee says the distribution fell from last month mainly because October included a one-off $1,125,000 settlement payment.",
+        "quote": "This month’s distribution decreased compared to the previous month due primarily to the final settlement payment in the amount of $1,125,000 being received from Blackbeard Operating which was included in the October distribution"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The Trustee says world market conditions affect prices and their effect on future distributions is hard to predict.",
+        "quote": "The worldwide market conditions continue to affect the pricing for domestic production. It is difficult to predict what effect these"
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The Trustee reports a lower distribution, a continuing excess cost position on Waddell Ranch and says future distributions are hard to predict."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/319654-0001193125-26-468019.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/319654/000119312526468019/pbt-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/319654/000119312526468019/0001193125-26-468019-index.htm",
+    "saved_at": "2026-11-21T06:08:05+08:00"
   }
 ]
