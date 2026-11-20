@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T10:13:52+08:00",
+  "fetched_at": "2026-11-20T10:33:06+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,73 +16,73 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-19",
       "ok": true,
-      "detail": "HTTP 200, 41 KB in 454 ms"
+      "detail": "HTTP 200, 41 KB in 379 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 96 ms"
+      "detail": "HTTP 200, 148 KB in 117 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 47 ms"
+      "detail": "HTTP 200, 156 KB in 133 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 40 ms"
+      "detail": "HTTP 200, 153 KB in 135 ms"
     },
     {
       "name": "CALERES INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/14707/000110465926130237/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 178 ms"
+      "detail": "HTTP 200, 1 KB in 184 ms"
     },
     {
       "name": "CALERES INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/14707/000110465926130237/cal-ex99d1.htm",
       "ok": true,
-      "detail": "HTTP 200, 11 KB in 88 ms"
+      "detail": "HTTP 200, 11 KB in 174 ms"
     },
     {
       "name": "PERMIAN BASIN ROYALTY TRUST filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/319654/000119312526468019/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 67 ms"
+      "detail": "HTTP 200, 1 KB in 142 ms"
     },
     {
       "name": "PERMIAN BASIN ROYALTY TRUST press release",
       "url": "https://www.sec.gov/Archives/edgar/data/319654/000119312526468019/pbt-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 65 KB in 87 ms"
+      "detail": "HTTP 200, 65 KB in 98 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 60 ms"
+      "detail": "HTTP 200, 3,174 KB in 85 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 63 ms"
+      "detail": "HTTP 200, 4,447 KB in 99 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 47 ms"
+      "detail": "HTTP 200, 2,745 KB in 180 ms"
     },
     {
       "name": "CALERES INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000014707.json",
       "ok": true,
-      "detail": "HTTP 200, 3,506 KB in 73 ms"
+      "detail": "HTTP 200, 3,506 KB in 474 ms"
     },
     {
       "name": "PERMIAN BASIN ROYALTY TRUST company facts",
@@ -94,13 +94,13 @@
       "name": "CENTURY CASINOS INC /CO/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911147.json",
       "ok": true,
-      "detail": "HTTP 200, 3,079 KB in 812 ms"
+      "detail": "HTTP 200, 3,079 KB in 339 ms"
     },
     {
       "name": "TJX COMPANIES INC /DE/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109198.json",
       "ok": true,
-      "detail": "HTTP 200, 3,568 KB in 296 ms"
+      "detail": "HTTP 200, 3,568 KB in 186 ms"
     }
   ],
   "files": [
