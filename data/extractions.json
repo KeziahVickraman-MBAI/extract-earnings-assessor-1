@@ -1095,5 +1095,136 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/319654/000119312526468019/pbt-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/319654/000119312526468019/0001193125-26-468019-index.htm",
     "saved_at": "2026-11-21T06:08:05+08:00"
+  },
+  {
+    "cik": "41719",
+    "company": "Magnera Corp",
+    "accession": "0001140361-26-044950",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 851,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 851"
+      },
+      "operating_income": {
+        "value": -90,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | (90"
+      },
+      "net_income": {
+        "value": -141,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | (141"
+      },
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "For fiscal 2027 Magnera expects Adjusted EBITDA of $390 million to $410 million.",
+      "quote": "Adjusted EBITDA of $390 - $410 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says fourth-quarter Adjusted EBITDA improved by 8% on last year.",
+        "quote": "We finished Fiscal 2026 with an impressive 8% Adjusted EBITDA improvement in the fourth quarter compared to last year"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says Project CORE and synergies are optimising the cost structure and generating strong cash flow.",
+        "quote": "we are optimizing our cost structure, enhancing profitability, and generating exceptional cash flow"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the results were delivered despite inflation and shifting demand in its end markets.",
+        "quote": "Our teams delivered these results while navigating inflationary pressures and dynamic demand conditions across our end markets"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO expects sustainable earnings growth and strong cash generation to continue, while mindful of the economy.",
+        "quote": "we are confident that the strength of our team, our market positions, and our disciplined execution will continue to support sustainable earnings growth and strong cash generation"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the results impressive and strong and says he is confident, mentioning inflation and demand only briefly."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/41719-0001140361-26-044950.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/0001140361-26-044950-index.htm",
+    "saved_at": "2026-11-22T06:07:25+08:00"
+  },
+  {
+    "cik": "63296",
+    "company": "MATTHEWS INTERNATIONAL CORP",
+    "accession": "0000063296-26-000118",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 256.705,
+        "unit": "USD millions",
+        "quote": "Sales | $ | 256,705"
+      },
+      "operating_income": {
+        "value": -8.533,
+        "unit": "USD millions",
+        "quote": "Operating (loss) profit | (8,533)"
+      },
+      "net_income": {
+        "value": -19.503,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (19,503)"
+      },
+      "diluted_eps": {
+        "value": -0.62,
+        "unit": "USD per share",
+        "quote": "Loss per share -- diluted | $ | (0.62)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fourth-quarter results were at the high end of expectations, with Memorialization sales up and product identification sales up 14%.",
+        "quote": "We finished 2026 strongly, with 4th quarter consolidated results at the high end of our expectations. Sales for the Memorialization segment outperformed the same quarter a year ago"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says corporate and other non-operating costs declined in the quarter.",
+        "quote": "corporate and other non-operating costs declined, and product identification sales grew 14%"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the engineering business still faces customer delays linked to ongoing litigation.",
+        "quote": "Our engineering business continues to face customer delays related to ongoing litigation."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO cites economic uncertainty and litigation and gives no full-year fiscal 2027 guidance.",
+        "quote": "As we enter fiscal 2027, economic uncertainty and litigation affecting our engineering business remain significant considerations."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO says the year finished strongly but stresses economic uncertainty, litigation and unfinished strategy work, and gives no guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/63296-0000063296-26-000118.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/ex991_4q2026earningspr.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/0000063296-26-000118-index.htm",
+    "saved_at": "2026-11-22T06:07:25+08:00"
   }
 ]
