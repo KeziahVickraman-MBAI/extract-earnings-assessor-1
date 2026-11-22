@@ -1,118 +1,94 @@
 {
-  "fetched_at": "2026-11-21T10:47:05+08:00",
+  "fetched_at": "2026-11-22T09:08:27+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-19",
-    "end": "2026-11-20",
+    "start": "2026-11-20",
+    "end": "2026-11-21",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 17,
-  "answered": 16,
+  "requests": 13,
+  "answered": 12,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-19&enddt=2026-11-20",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-21",
       "ok": true,
-      "detail": "HTTP 200, 31 KB in 147 ms"
+      "detail": "HTTP 200, 7 KB in 402 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 104 ms"
+      "detail": "HTTP 200, 148 KB in 269 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 50 ms"
+      "detail": "HTTP 200, 156 KB in 64 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 48 ms"
-    },
-    {
-      "name": "Magnera Corp filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/index.json",
-      "ok": true,
-      "detail": "HTTP 200, 1 KB in 309 ms"
-    },
-    {
-      "name": "Magnera Corp press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
-      "ok": true,
-      "detail": "HTTP 200, 372 KB in 344 ms"
-    },
-    {
-      "name": "MATTHEWS INTERNATIONAL CORP filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/index.json",
-      "ok": true,
-      "detail": "HTTP 200, 3 KB in 162 ms"
-    },
-    {
-      "name": "MATTHEWS INTERNATIONAL CORP press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/ex991_4q2026earningspr.htm",
-      "ok": true,
-      "detail": "HTTP 200, 348 KB in 343 ms"
+      "detail": "HTTP 200, 153 KB in 45 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 237 ms"
+      "detail": "HTTP 200, 3,174 KB in 240 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 277 ms"
+      "detail": "HTTP 200, 4,447 KB in 241 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 140 ms"
-    },
-    {
-      "name": "Magnera Corp company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
-      "ok": true,
-      "detail": "HTTP 200, 2,904 KB in 446 ms"
-    },
-    {
-      "name": "MATTHEWS INTERNATIONAL CORP company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063296.json",
-      "ok": true,
-      "detail": "HTTP 200, 3,498 KB in 407 ms"
+      "detail": "HTTP 200, 2,745 KB in 279 ms"
     },
     {
       "name": "CENTURY CASINOS INC /CO/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911147.json",
       "ok": true,
-      "detail": "HTTP 200, 3,079 KB in 393 ms"
+      "detail": "HTTP 200, 3,079 KB in 442 ms"
     },
     {
       "name": "TJX COMPANIES INC /DE/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109198.json",
       "ok": true,
-      "detail": "HTTP 200, 3,568 KB in 193 ms"
+      "detail": "HTTP 200, 3,568 KB in 140 ms"
     },
     {
       "name": "CALERES INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000014707.json",
       "ok": true,
-      "detail": "HTTP 200, 3,506 KB in 390 ms"
+      "detail": "HTTP 200, 3,506 KB in 250 ms"
     },
     {
       "name": "PERMIAN BASIN ROYALTY TRUST company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000319654.json",
       "ok": false,
       "detail": "HTTP 404 from data.sec.gov: the address was not found"
+    },
+    {
+      "name": "Magnera Corp company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
+      "ok": true,
+      "detail": "HTTP 200, 2,904 KB in 393 ms"
+    },
+    {
+      "name": "MATTHEWS INTERNATIONAL CORP company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063296.json",
+      "ok": true,
+      "detail": "HTTP 200, 3,498 KB in 335 ms"
     }
   ],
   "files": [
@@ -127,10 +103,6 @@
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
-    "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_41719_000114036126044950_ef20086010_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_41719_000114036126044950_index.json",
-    "www.sec.gov_Archives_edgar_data_63296_000006329626000118_ex991_4q2026earningspr.htm",
-    "www.sec.gov_Archives_edgar_data_63296_000006329626000118_index.json"
+    "efts.sec.gov_search-index_from0.json"
   ]
 }
