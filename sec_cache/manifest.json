@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T09:33:47+08:00",
+  "fetched_at": "2026-11-23T09:56:30+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,61 +16,61 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-22",
       "ok": true,
-      "detail": "HTTP 200, 7 KB in 518 ms"
+      "detail": "HTTP 200, 7 KB in 413 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 52 ms"
+      "detail": "HTTP 200, 148 KB in 117 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 47 ms"
+      "detail": "HTTP 200, 156 KB in 84 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 38 ms"
+      "detail": "HTTP 200, 153 KB in 77 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 66 ms"
+      "detail": "HTTP 200, 3,174 KB in 101 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 65 ms"
+      "detail": "HTTP 200, 4,447 KB in 180 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 61 ms"
+      "detail": "HTTP 200, 2,745 KB in 227 ms"
     },
     {
       "name": "CENTURY CASINOS INC /CO/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911147.json",
       "ok": true,
-      "detail": "HTTP 200, 3,079 KB in 311 ms"
+      "detail": "HTTP 200, 3,079 KB in 427 ms"
     },
     {
       "name": "TJX COMPANIES INC /DE/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109198.json",
       "ok": true,
-      "detail": "HTTP 200, 3,568 KB in 119 ms"
+      "detail": "HTTP 200, 3,568 KB in 125 ms"
     },
     {
       "name": "CALERES INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000014707.json",
       "ok": true,
-      "detail": "HTTP 200, 3,506 KB in 365 ms"
+      "detail": "HTTP 200, 3,506 KB in 478 ms"
     },
     {
       "name": "PERMIAN BASIN ROYALTY TRUST company facts",
@@ -82,13 +82,13 @@
       "name": "Magnera Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
       "ok": true,
-      "detail": "HTTP 200, 2,904 KB in 420 ms"
+      "detail": "HTTP 200, 2,904 KB in 194 ms"
     },
     {
       "name": "MATTHEWS INTERNATIONAL CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063296.json",
       "ok": true,
-      "detail": "HTTP 200, 3,498 KB in 304 ms"
+      "detail": "HTTP 200, 3,498 KB in 126 ms"
     }
   ],
   "files": [
