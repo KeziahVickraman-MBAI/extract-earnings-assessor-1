@@ -1226,5 +1226,134 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/ex991_4q2026earningspr.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/0000063296-26-000118-index.htm",
     "saved_at": "2026-11-22T06:07:25+08:00"
+  },
+  {
+    "cik": "1535527",
+    "company": "CrowdStrike Holdings, Inc.",
+    "accession": "0001535527-26-000035",
+    "release_date": "2026-11-23",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 1583.419,
+        "unit": "USD millions",
+        "quote": "Total revenue | 1,583,419"
+      },
+      "operating_income": {
+        "value": -0.756,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (756)"
+      },
+      "net_income": {
+        "value": 24.856,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to CrowdStrike | $ | 24,856"
+      },
+      "diluted_eps": {
+        "value": 0.02,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.02"
+      }
+    },
+    "guidance": {
+      "text": "CrowdStrike expects total revenue of $1,638.1 million to $1,644.1 million for the fourth quarter of fiscal 2027 and $6,078.1 million to $6,084.1 million for the full year.",
+      "quote": "Total revenue | $1,638.1 - $1,644.1 million | $6,078.1 - $6,084.1 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO calls the third quarter the best in the company's history, with growth accelerating across the business.",
+        "quote": "Q3 was the best quarter in CrowdStrike’s history,” said George Kurtz, CrowdStrike’s Founder and Chief Executive Officer. “Growth accelerated across the business"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CFO says business momentum gives confidence to raise the full-year outlook significantly.",
+        "quote": "Our strong business momentum gives us the confidence to significantly raise our full-year outlook."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CFO expects the Zscaler acquisition to add to free cash flow per share immediately on closing, before synergies.",
+        "quote": "we expect will be significantly and immediately accretive to free cash flow per share upon close before factoring any synergies"
+      },
+      {
+        "id": "M4",
+        "topic": "margins",
+        "claim": "The CFO expects the deal to add to revenue growth and non-GAAP operating margin within the first fiscal year after closing, after synergies.",
+        "quote": "We also expect it will be accretive to revenue growth, non-GAAP operating margin and free cash flow margin, after synergies, within the first fiscal year after close."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls Q3 the best quarter in the company's history and the CFO speaks of record performance and a raised outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1535527-0001535527-26-000035.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/0001535527-26-000035-index.htm",
+    "saved_at": "2026-11-25T06:07:57+08:00"
+  },
+  {
+    "cik": "1713683",
+    "company": "Zscaler, Inc.",
+    "accession": "0001193125-26-470942",
+    "release_date": "2026-11-23",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 949.326,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 949,326"
+      },
+      "operating_income": {
+        "value": -33.242,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (33,242 | )"
+      },
+      "net_income": {
+        "value": -27.435,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (27,435 | )"
+      },
+      "diluted_eps": {
+        "value": -0.17,
+        "unit": "USD per share",
+        "quote": "Net loss per share, basic and diluted | $ | (0.17 | )"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the company made a strong start to the fiscal year.",
+        "quote": "We delivered a strong start to the fiscal year as enterprises increasingly recognize the importance of hiding their attack surfaces and eliminating lateral movement"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO believes the CrowdStrike acquisition will create the most expansive cybersecurity platform for the AI era.",
+        "quote": "With CrowdStrike’s proposed acquisition of Zscaler, we believe we will create the most expansive cybersecurity platform for the AI era"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Because of the deal, the company will hold no call and is withdrawing its earlier financial guidance.",
+        "quote": "will not be providing and will be withdrawing its previously issued financial guidance"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes a strong start to the fiscal year and presents the acquisition as creating a broader platform."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1713683-0001193125-26-470942.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961dex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/0001193125-26-470942-index.htm",
+    "saved_at": "2026-11-25T06:07:57+08:00"
   }
 ]
