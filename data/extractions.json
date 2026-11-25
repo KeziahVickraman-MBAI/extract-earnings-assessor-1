@@ -1355,5 +1355,137 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961dex991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/0001193125-26-470942-index.htm",
     "saved_at": "2026-11-25T06:07:57+08:00"
+  },
+  {
+    "cik": "1280263",
+    "company": "AMBARELLA INC",
+    "accession": "0001193125-26-475716",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 115.219,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 115,219"
+      },
+      "operating_income": {
+        "value": -14.511,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (14,511"
+      },
+      "net_income": {
+        "value": -12.703,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (12,703"
+      },
+      "diluted_eps": {
+        "value": -0.29,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (0.29"
+      }
+    },
+    "guidance": {
+      "text": "Ambarella expects fourth-quarter fiscal 2027 revenue of between $70.0 million and $75.0 million.",
+      "quote": "Revenue is expected to be between $70.0 million and $75.0 million."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Edge AI revenue was a record, but total revenue was at the low end of guidance because consumer IoT revenue was below expectations.",
+        "quote": "We reported record edge AI revenue in our third quarter, although total revenue was at the low end of our guidance range as our consumer IoT revenue was below our expectations."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Rising memory prices and scarce memory supply have intensified and are leading many customers to reduce their outlooks.",
+        "quote": "The unprecedented rise in memory prices and the scarcity of memory supply we previously highlighted has intensified and is causing many customers to reduce their outlooks"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects investments in products, partners and new applications to make fiscal 2028 a growth year.",
+        "quote": "Our investments in new products, expanding Partner program, enhancements to our Cooper Development Platform and reach into new applications is expected to enable our fiscal 2028 to be a growth year."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO cites record edge AI revenue and a growth year ahead, but also weak consumer IoT revenue and memory shortages hitting customers."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1280263-0001193125-26-475716.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1280263/000119312526475716/d912526dex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1280263/000119312526475716/0001193125-26-475716-index.htm",
+    "saved_at": "2026-11-26T06:08:12+08:00"
+  },
+  {
+    "cik": "1089063",
+    "company": "DICK'S SPORTING GOODS, INC.",
+    "accession": "0001089063-26-000039",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 5133.468,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 5,133,468 | 100.00"
+      },
+      "operating_income": {
+        "value": 240.793,
+        "unit": "USD millions",
+        "quote": "OPERATING INCOME | 240,793"
+      },
+      "net_income": {
+        "value": 161.216,
+        "unit": "USD millions",
+        "quote": "NET INCOME | $ | 161,216"
+      },
+      "diluted_eps": {
+        "value": 1.87,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.87 | $ | 0.86"
+      }
+    },
+    "guidance": {
+      "text": "DICK'S expects consolidated full-year 2026 net sales of $22.0 billion to $22.2 billion.",
+      "quote": "Net sales | ●$22.0 billion to 22.2 billion"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Comparable sales for the DICK'S Business rose 2.6%, helped by a very strong back-to-school season.",
+        "quote": "Comp sales for the DICK'S Business increased 2.6%, including a very strong back-to-school season."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Foot Locker made progress and delivered slightly positive comparable sales despite a challenging athletic footwear market.",
+        "quote": "We also made progress at Foot Locker and delivered a slightly positive comp, despite a continued challenging athletic footwear marketplace."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company is raising the low end of its full-year comp sales outlook and its operating income expectations for the DICK'S Business.",
+        "quote": "Given our continued confidence in the DICK'S Business, we are raising the low end of our full-year 2026 comp sales outlook and increasing our operating income expectations."
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The company returned over $900 million to shareholders by repurchasing 6.7 million shares in the quarter.",
+        "quote": "During the quarter, we returned over $900 million of capital to shareholders through the opportunistic repurchase of 6.7 million shares"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "Management calls the quarter strong, cites market share gains and raises its outlook, while noting a challenging footwear market."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1089063-0001089063-26-000039.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000039/dks-20261031xex991earnings.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000039/0001089063-26-000039-index.htm",
+    "saved_at": "2026-11-26T06:08:12+08:00"
   }
 ]
