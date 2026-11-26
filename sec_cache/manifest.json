@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T11:28:57+08:00",
+  "fetched_at": "2026-11-26T11:44:26+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,109 +16,109 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-24&enddt=2026-11-25",
       "ok": true,
-      "detail": "HTTP 200, 28 KB in 148 ms"
+      "detail": "HTTP 200, 28 KB in 64 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 121 ms"
+      "detail": "HTTP 200, 148 KB in 65 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 101 ms"
+      "detail": "HTTP 200, 156 KB in 17 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 93 ms"
+      "detail": "HTTP 200, 154 KB in 16 ms"
     },
     {
       "name": "INGLES MARKETS INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 295 ms"
+      "detail": "HTTP 200, 1 KB in 115 ms"
     },
     {
       "name": "INGLES MARKETS INC filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/0001437749-26-038232-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 60 ms"
+      "detail": "HTTP 200, 10 KB in 64 ms"
     },
     {
       "name": "INGLES MARKETS INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/ex_1050620.htm",
       "ok": true,
-      "detail": "HTTP 200, 136 KB in 191 ms"
+      "detail": "HTTP 200, 136 KB in 65 ms"
     },
     {
       "name": "USCB FINANCIAL HOLDINGS, INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 251 ms"
+      "detail": "HTTP 200, 1 KB in 64 ms"
     },
     {
       "name": "USCB FINANCIAL HOLDINGS, INC. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/0000927089-26-000198-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 66 ms"
+      "detail": "HTTP 200, 10 KB in 69 ms"
     },
     {
       "name": "USCB FINANCIAL HOLDINGS, INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/ex_1051057.htm",
       "ok": true,
-      "detail": "HTTP 200, 24 KB in 32 ms"
+      "detail": "HTTP 200, 24 KB in 76 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 160 ms"
+      "detail": "HTTP 200, 3,175 KB in 34 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 157 ms"
+      "detail": "HTTP 200, 4,447 KB in 58 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 144 ms"
+      "detail": "HTTP 200, 2,745 KB in 18 ms"
     },
     {
       "name": "INGLES MARKETS INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000050493.json",
       "ok": true,
-      "detail": "HTTP 200, 1,909 KB in 137 ms"
+      "detail": "HTTP 200, 1,909 KB in 23 ms"
     },
     {
       "name": "USCB FINANCIAL HOLDINGS, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001901637.json",
       "ok": true,
-      "detail": "HTTP 200, 1,242 KB in 138 ms"
+      "detail": "HTTP 200, 1,242 KB in 358 ms"
     },
     {
       "name": "CENTURY CASINOS INC /CO/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000911147.json",
       "ok": true,
-      "detail": "HTTP 200, 3,079 KB in 155 ms"
+      "detail": "HTTP 200, 3,079 KB in 891 ms"
     },
     {
       "name": "TJX COMPANIES INC /DE/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109198.json",
       "ok": true,
-      "detail": "HTTP 200, 3,568 KB in 311 ms"
+      "detail": "HTTP 200, 3,568 KB in 21 ms"
     },
     {
       "name": "CALERES INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000014707.json",
       "ok": true,
-      "detail": "HTTP 200, 3,506 KB in 521 ms"
+      "detail": "HTTP 200, 3,506 KB in 1238 ms"
     },
     {
       "name": "PERMIAN BASIN ROYALTY TRUST company facts",
@@ -130,31 +130,31 @@
       "name": "Magnera Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
       "ok": true,
-      "detail": "HTTP 200, 2,957 KB in 148 ms"
+      "detail": "HTTP 200, 2,957 KB in 17 ms"
     },
     {
       "name": "MATTHEWS INTERNATIONAL CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063296.json",
       "ok": true,
-      "detail": "HTTP 200, 3,498 KB in 247 ms"
+      "detail": "HTTP 200, 3,498 KB in 19 ms"
     },
     {
       "name": "Zscaler, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001713683.json",
       "ok": true,
-      "detail": "HTTP 200, 1,983 KB in 288 ms"
+      "detail": "HTTP 200, 1,983 KB in 76 ms"
     },
     {
       "name": "AMBARELLA INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001280263.json",
       "ok": true,
-      "detail": "HTTP 200, 2,674 KB in 308 ms"
+      "detail": "HTTP 200, 2,674 KB in 109 ms"
     },
     {
       "name": "DICK'S SPORTING GOODS, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001089063.json",
       "ok": true,
-      "detail": "HTTP 200, 2,991 KB in 468 ms"
+      "detail": "HTTP 200, 2,991 KB in 92 ms"
     }
   ],
   "files": [
