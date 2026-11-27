@@ -6041,5 +6041,159 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-28T06:38:14+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-28-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 6,
+      "total": 7,
+      "failures": [
+        {
+          "name": "PERMIAN BASIN ROYALTY TRUST company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 7,
+      "checked": 7,
+      "rechecks": 7,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 28
+    },
+    "companies": [
+      {
+        "cik": "109198",
+        "company": "TJX COMPANIES INC /DE/",
+        "accession": "0000109198-26-000058",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "14707",
+        "company": "CALERES INC",
+        "accession": "0001104659-26-130237",
+        "period_label": "third quarter, preliminary (quarter ended about 31 October 2026)",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "319654",
+        "company": "PERMIAN BASIN ROYALTY TRUST",
+        "accession": "0001193125-26-468019",
+        "period_label": "no quarterly results; November 2026 monthly distribution",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "63296",
+        "company": "MATTHEWS INTERNATIONAL CORP",
+        "accession": "0000063296-26-000118",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1713683",
+        "company": "Zscaler, Inc.",
+        "accession": "0001193125-26-470942",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1280263",
+        "company": "AMBARELLA INC",
+        "accession": "0001193125-26-475716",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1089063",
+        "company": "DICK'S SPORTING GOODS, INC.",
+        "accession": "0001089063-26-000039",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 4,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 7 extractions: 0 figures confirmed, 0 mismatches, 28 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-28T06:08:01+08:00",
+      "watch_brief": "briefs/2026-11-28-watch.md",
+      "brief_says": 0,
+      "saved_for_run": 0,
+      "match": true
+    },
+    "offline": false
   }
 ]
