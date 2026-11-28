@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T11:13:16+08:00",
+  "fetched_at": "2026-11-28T11:29:37+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,73 +16,73 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-26&enddt=2026-11-27",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 569 ms"
+      "detail": "HTTP 200, 2 KB in 192 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 173 ms"
+      "detail": "HTTP 200, 148 KB in 248 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 134 ms"
+      "detail": "HTTP 200, 156 KB in 300 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 128 ms"
+      "detail": "HTTP 200, 153 KB in 204 ms"
     },
     {
       "name": "SemiLEDs Corp filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1333822/000119312526479475/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 343 ms"
+      "detail": "HTTP 200, 1 KB in 69 ms"
     },
     {
       "name": "SemiLEDs Corp press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1333822/000119312526479475/leds-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 284 KB in 149 ms"
+      "detail": "HTTP 200, 284 KB in 256 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 178 ms"
+      "detail": "HTTP 200, 3,175 KB in 319 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 87 ms"
+      "detail": "HTTP 200, 4,447 KB in 319 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 273 ms"
+      "detail": "HTTP 200, 2,745 KB in 291 ms"
     },
     {
       "name": "SemiLEDs Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001333822.json",
       "ok": true,
-      "detail": "HTTP 200, 2,332 KB in 306 ms"
+      "detail": "HTTP 200, 2,332 KB in 417 ms"
     },
     {
       "name": "TJX COMPANIES INC /DE/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109198.json",
       "ok": true,
-      "detail": "HTTP 200, 3,568 KB in 210 ms"
+      "detail": "HTTP 200, 3,568 KB in 313 ms"
     },
     {
       "name": "CALERES INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000014707.json",
       "ok": true,
-      "detail": "HTTP 200, 3,506 KB in 183 ms"
+      "detail": "HTTP 200, 3,506 KB in 637 ms"
     },
     {
       "name": "PERMIAN BASIN ROYALTY TRUST company facts",
@@ -94,25 +94,25 @@
       "name": "MATTHEWS INTERNATIONAL CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063296.json",
       "ok": true,
-      "detail": "HTTP 200, 3,498 KB in 228 ms"
+      "detail": "HTTP 200, 3,498 KB in 789 ms"
     },
     {
       "name": "Zscaler, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001713683.json",
       "ok": true,
-      "detail": "HTTP 200, 1,983 KB in 383 ms"
+      "detail": "HTTP 200, 1,983 KB in 317 ms"
     },
     {
       "name": "AMBARELLA INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001280263.json",
       "ok": true,
-      "detail": "HTTP 200, 2,674 KB in 556 ms"
+      "detail": "HTTP 200, 2,674 KB in 302 ms"
     },
     {
       "name": "DICK'S SPORTING GOODS, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001089063.json",
       "ok": true,
-      "detail": "HTTP 200, 2,991 KB in 169 ms"
+      "detail": "HTTP 200, 2,991 KB in 536 ms"
     }
   ],
   "files": [
